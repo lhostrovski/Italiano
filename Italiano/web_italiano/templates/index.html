@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pratica d'Italiano</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #2ecc71, #3498db);
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+            width: 90vw;
+            max-width: 800px;
+            height: 80vh;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin: 0 0 20px 0;
+            flex-shrink: 0;
+        }
+        .controls {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-shrink: 0;
+        }
+        .frase-container {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 0;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            overflow-y: auto;
+            position: relative;
+        }
+        .frase-portugues, .frase-italiano {
+            font-size: 1.2em;
+            margin: 10px 0;
+            text-align: center;
+            padding: 15px;
+            border-radius: 8px;
+            min-height: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .frase-portugues {
+            background-color: #e8f6f3;
+            color: #27ae60;
+            font-weight: bold;
+        }
+        .frase-italiano {
+            background-color: #fff3e6;
+            color: #e67e22;
+            border-top: 1px solid #eee;
+            margin-top: 15px;
+        }
+        button {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            background-color: #3498db;
+            color: white;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            display: block;
+            margin: 15px auto;
+        }
+        button:hover {
+            background-color: #2980b9;
+        }
+        input {
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            width: 60px;
+            text-align: center;
+        }
+        .hidden {
+            display: none;
+        }
+        .btn-mostrar {
+            background-color: #e67e22;
+        }
+        .btn-mostrar:hover {
+            background-color: #d35400;
+        }
+        .btn-falar {
+            background-color: #9b59b6;
+            margin-left: 10px;
+        }
+        .btn-falar:hover {
+            background-color: #8e44ad;
+        }
+        .botoes-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            margin: 15px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Pratica d'Italiano</h1>
+        <div class="controls">
+            <button onclick="anterior()" id="btnAnterior">Anterior</button>
+            <input type="number" id="numFrase" min="1" max="{{ total_frases }}" value="1">
+            <button onclick="proximo()" id="btnProximo">Próximo</button>
+        </div>
+        <div class="frase-container">
+            <div class="frase-portugues" id="frase-portugues"></div>
+            <div class="botoes-container">
+                <button onclick="toggleItaliano()" id="btnToggle" class="btn-mostrar">Mostrar em Italiano</button>
+                <button onclick="falarItaliano()" id="btnFalar" class="btn-falar">
+                    <svg style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;" viewBox="0 0 24 24">
+                        <path fill="currentColor" d="M14,3.23V5.29C16.89,6.15 19,8.83 19,12C19,15.17 16.89,17.84 14,18.7V20.77C18,19.86 21,16.28 21,12C21,7.72 18,4.14 14,3.23M16.5,12C16.5,10.23 15.5,8.71 14,7.97V16C15.5,15.29 16.5,13.76 16.5,12M3,9V15H7L12,20V4L7,9H3Z"/>
+                    </svg>
+                    Ouvir em Italiano
+                </button>
+            </div>
+            <div class="frase-italiano hidden" id="frase-italiano"></div>
+        </div>
+    </div>
+
+    <script>
+        let italianoVisivel = false;
+        let fraseAtual = 1;
+        const totalFrases = {{ total_frases }};
+
+        function carregarFrase(numero) {
+            fetch(`/get_frase/${numero}`)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.error) {
+                        alert(data.error);
+                        return;
+                    }
+                    document.getElementById('frase-portugues').textContent = data.frase_portugues;
+                    document.getElementById('frase-italiano').textContent = data.frase_italiano;
+                    document.getElementById('numFrase').value = numero;
+                    italianoVisivel = false;
+                    document.getElementById('frase-italiano').classList.add('hidden');
+                    document.getElementById('btnToggle').textContent = 'Mostrar em Italiano';
+                });
+        }
+
+        function toggleItaliano() {
+            const italianoDiv = document.getElementById('frase-italiano');
+            const btnToggle = document.getElementById('btnToggle');
+            italianoVisivel = !italianoVisivel;
+            if (italianoVisivel) {
+                italianoDiv.classList.remove('hidden');
+                btnToggle.textContent = 'Ocultar Italiano';
+            } else {
+                italianoDiv.classList.add('hidden');
+                btnToggle.textContent = 'Mostrar em Italiano';
+            }
+        }
+
+        function anterior() {
+            if (fraseAtual > 1) {
+                fraseAtual--;
+                carregarFrase(fraseAtual);
+            }
+        }
+
+        function proximo() {
+            if (fraseAtual < totalFrases) {
+                fraseAtual++;
+                carregarFrase(fraseAtual);
+            }
+        }
+
+        document.getElementById('numFrase').addEventListener('change', function(e) {
+            const num = parseInt(e.target.value);
+            if (num >= 1 && num <= totalFrases) {
+                fraseAtual = num;
+                carregarFrase(num);
+            }
+        });
+
+        function falarItaliano() {
+            fetch(`/falar_italiano/${fraseAtual}`)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.error) {
+                        alert(data.error);
+                    }
+                });
+        }
+
+        // Carregar primeira frase ao iniciar
+        carregarFrase(1);
+    </script>
+</body>
+</html>

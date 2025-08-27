@@ -1,0 +1,550 @@
+1. Voltei para casa depois de um longo dia de trabalho.
+2. Preparei um jantar leve com macarrão e legumes.
+3. Assistimos (passado) a um filme divertido com a família.
+4. Depois do filme, conversamos (no passado) um pouco sobre o dia.
+5. Eu acordo todas as manhãs às sete.
+6. Tomo um café forte para começar o dia.
+7. Saio de casa e pego o ônibus para ir ao trabalho.
+8. No trabalho, verifico os e-mails e planejo as atividades.
+9. Durante a pausa para o almoço, como um sanduíche no bar.
+10. À tarde, participo de reuniões e termino as tarefas.
+11. Depois do trabalho, faço uma caminhada no parque.
+12. Volto para casa e preparo o jantar com minha esposa.
+13. Jantamos juntos e depois lemos um livro.
+14. Tomo um chá de ervas antes de ir dormir.
+15. Muitas vezes sonho em viajar para países distantes.
+16. Levanto da cama e tomo um banho rápido.
+17. Escolho as roupas e me visto depressa.
+18. Pego a mochila e corro para a parada de ônibus.
+19. O trem está lotado, mas encontro um lugar para sentar.
+20. Ouço música enquanto olho para fora da janelinha.
+21. O céu está nublado, mas não chove ainda.
+22. Chego ao escritório e cumprimento os colegas.
+23. Ligo o computador e começo a trabalhar.
+24. Atendo telefonemas e escrevo documentos.
+25. A pausa para o café é um momento para relaxar.
+26. Conversamos sobre o fim de semana com os colegas.
+27. Volto para a mesa e continuo o trabalho.
+28. Termino um projeto importante antes do fim do dia.
+29. Despeço-me de todos e deixo o escritório.
+30. Em casa, cumprimento as crianças que estão brincando.
+31. Ajudo com as lições de casa e arrumo a mesa.
+32. Jantamos com risadas e histórias do dia.
+33. Depois do jantar, assistimos às notícias na TV.
+34. Leio um capítulo do meu livro favorito.
+35. Apago as luzes e vou dormir.
+36. Acordo com o canto dos pássaros.
+37. Abro a janela para deixar entrar ar fresco.
+38. Preparo o café da manhã para todos.
+39. Comemos pão torrado com geleia.
+40. Bebemos suco de laranja recém-espremido.
+41. As crianças se vestem para ir à escola.
+42. Levo elas até o ponto do ônibus escolar.
+43. Cumprimento os vizinhos ao voltar para casa.
+44. Hoje trabalho de casa, começo no computador.
+45. Escrevo um artigo para o blog da empresa.
+46. Faço uma pausa e tomo um café.
+47. Ouço um podcast enquanto arrumo a casa.
+48. Limpo a cozinha e organizo.
+49. A máquina de lavar está ligada e gira rápido.
+50. Coloco as roupas (lavadas) para secar ao sol.
+51. Volto ao computador e respondo e-mails.
+52. Almoço com uma salada e um pedaço de pão.
+53. Depois do almoço, me deito para um breve descanso.
+54. Acordo e tomo um copo de água.
+55. Continuo trabalhando em um novo projeto.
+56. Ligo para um colega para discutir uma proposta.
+57. Escrevemos juntos um documento de apresentação.
+58. Salvamos o arquivo e o enviamos ao chefe.
+59. Desligo o computador e me preparo para sair.
+60. Vou ao supermercado fazer compras.
+61. Compro frutas, legumes, pão e queijo.
+62. Passo no caixa e pago com o cartão.
+63. Cumprimento o caixa e volto para casa.
+64. Guardo os produtos nos armários e na geladeira.
+65. Preparo um bolo para o aniversário da minha filha.
+66. Decoro a casa com balões e enfeites.
+67. Os convidados chegam com presentes e sorrisos.
+68. Cantamos "Parabéns" e cortamos o bolo.
+69. As crianças brincam e se divertem juntas.
+70. Tiramos fotos de lembrança com toda a família.
+71. A noite termina com uma história lida para os pequenos.
+72. Coloco as crianças para dormir com um beijo.
+73. Arrumo a cozinha e varro o chão.
+74. Me sento no sofá com meu marido.
+75. Falamos sobre os planos para o fim de semana.
+76. Assistimos à previsão do tempo.
+77. Programamos um passeio fora da cidade.
+78. Preparo as mochilas com água e lanche.
+79. Coloco o despertador cedo para amanhã.
+80. Fecho os olhos e penso em coisas boas.
+81. Durmo profundamente até de manhã.
+82. Me levanto e dou boas-vindas ao novo dia.
+83. Visto roupas confortáveis para o passeio (excursão).
+84. Carregamos o carro e partimos.
+85. A estrada está livre e a viagem agradável.
+86. Ouvimos músicas e cantamos juntos.
+87. Chegamos ao lago cercado por montanhas.
+88. Fazemos uma caminhada pela trilha.
+89. Tiramos fotos da natureza ao nosso redor.
+90. Paramos para comer à beira da água.
+91. As crianças brincam com pedras e água.
+92. Relaxamos na grama olhando as nuvens.
+93. Voltamos para casa com o coração cheio.
+94. Conversamos sobre os melhores momentos do dia.
+95. Colocamos tudo em ordem e tomamos banho.
+96. Preparo um jantar rápido com o que tem.
+97. Tomamos um chá de ervas e contamos histórias.
+98. As crianças desenham os momentos preferidos.
+99. Penduramos os desenhos na geladeira.
+100. Dizemos boa noite e vamos dormir.
+101. Acordo cedo e preparo o café da manhã.
+102. Hoje é um dia especial no trabalho.
+103. Visto um traje elegante para um encontro importante.
+104. Chego ao escritório com alguns minutos de antecedência.
+105. Cumprimento o diretor e os outros colegas.
+106. Participamos de uma reunião estratégica.
+107. Discutimos novos projetos e ideias inovadoras.
+108. Tomamos notas e planejamos as atividades.
+109. Terminada a reunião, respondo muitos e-mails.
+110. Preparo uma apresentação para o cliente.
+111. Revejo os dados e verifico a precisão/exatidão.
+112. Mando a apresentação para a equipe dar feedback.
+113. Almoço com uma salada e um suco de fruta.
+114. Falo ao telefone com um parceiro comercial.
+115. Organizo uma viagem de trabalho para a próxima semana.
+116. Verifico o calendário e confirmo as datas.
+117. Escrevo um relatório para o chefe de setor.
+118. Faço uma pausa para o café com os colegas.
+119. Discutimos os próximos eventos da empresa.
+120. Volto à mesa e finalizo um documento.
+121. Envio as últimas comunicações antes de sair.
+122. Me despeço de todos e desligo o computador.
+123. Pego o ônibus para voltar para casa.
+124. Me relaxo ouvindo música durante a viagem.
+125. Chego em casa e encontro a família reunida.
+126. Ajudo as crianças com a lição de casa.
+127. Cozinho o jantar com ingredientes frescos.
+128. Jantamos todos juntos e contamos sobre o dia.
+129. Depois do jantar, assistimos a um programa na TV.
+130. Leio um livro de ficção antes de dormir.
+131. Apago a luz e fecho os olhos.
+132. Adormeço pensando em novos sonhos.
+133. Acordo renovado e pronto para começar.
+134. Preparo um café da manhã reforçado (energético).
+135. Saio de casa para uma corrida matinal.
+136. Corro no parque próximo e respiro ar puro.
+137. Volto para casa e tomo um banho quente.
+138. Visto roupas leves e confortáveis.
+139. Leio as notícias online enquanto tomo café.
+140. Respondo mensagens e ligo para um amigo.
+141. Faço compras no mercado do bairro.
+142. Escolho frutas frescas e legumes da estação.
+143. Volto para casa e preparo um almoço saudável.
+144. Convido um vizinho para o almoço.
+145. Passamos uma tarde agradável conversando.
+146. Ajudo as crianças a prepararem um trabalho (trabalhinho, manual) criativo.
+147. Organizamos a casa para a festa do fim de semana.
+148. Escrevo convites e preparo uma lista de convidados.
+149. Visito o jardim e rego as plantas.
+150. Me relaxo no sofá lendo uma revista.
+151. À noite, preparamos uma pizza caseira.
+152. Comemos rindo e compartilhando histórias.
+153. Assistimos a um filme comovente juntos.
+154. Antes de dormir, faço meditação.
+155. Fecho os olhos e me concentro na respiração.
+156. Adormeço tranquilo e sereno.
+157. Acordo com o sol entrando pela janela.
+158. Preparo o café da manhã com pão fresco e geleia.
+159. Organizo o dia de trabalho.
+160. Faço uma videochamada com colegas do exterior.
+161. Compartilhamos ideias e projetos futuros.
+162. Escrevo um artigo para o boletim da empresa.
+163. Almoço com uma salada leve.
+164. Respondo e-mails urgentes e ligo para um cliente.
+165. Programo uma reunião para a semana seguinte.
+166. Termino o trabalho e preparo a bolsa da academia.
+167. Vou correr e faço exercícios de alongamento.
+168. Volto para casa e tomo um banho refrescante.
+169. Preparo um jantar rápido, mas gostoso.
+170. Passo a noite com a família jogando.
+171. Conto uma história para as crianças antes de dormir.
+172. Apago as luzes e relaxo no sofá.
+173. Leio algumas páginas de um livro interessante.
+174. Vou dormir com um sorriso.
+175. Acordo e começo um novo dia com energia.
+176. Preparo o café da manhã e tomo um café.
+177. Saio para fazer uma caminhada matinal.
+178. Cumprimento os vizinhos e caminho pelo bairro.
+179. Visito uma loja local e compro pão.
+180. Volto para casa e arrumo a cozinha.
+181. Me dedico a um hobby criativo à tarde.
+182. Escrevo uma carta para um amigo distante.
+183. Leio uma revista de viagens e sonho com novas destinações.
+184. Preparo um jantar especial para a família.
+185. Jantamos juntos e brindamos à saúde.
+186. Olhamos as estrelas da janela do quarto.
+187. Conto anedotas engraçadas e rimos muito.
+188. Faço uma caminhada noturna pelo bairro.
+189. Volto para casa e me preparo para dormir.
+190. Leio algumas páginas de um romance policial.
+191. Apago a luz e fecho os olhos.
+192. Adormeço pensando em dias felizes.
+193. Acordo com o canto dos pássaros.
+194. Preparo o café da manhã e tomo um suco de fruta.
+195. Saio para uma corrida no parque próximo.
+196. Volto para casa e faço alongamento.
+197. Leio um livro enquanto tomo um chá.
+198. Preparo o almoço para a família.
+199. Passamos a tarde juntos brincando.
+200. À noite, vamos dormir tranquilos e felizes.
+201. A menina veste um vestido vermelho, um colar elegante e caminha com os sapatos novos no parque.
+202. O professor explica a lição enquanto os alunos escutam atentamente e escrevem no quadro.
+203. Meus amigos estão alegres e falam sobre esportes, férias e a viagem para a montanha.
+204. Na cozinha há a geladeira, a mesa posta com pratos, copos e uma sopa quente.
+205. Vamos ao museu, depois ao cinema e por fim jantamos no restaurante em frente à fonte.
+206. Na próxima segunda-feira encontrarei o médico no hospital perto do supermercado.
+207. O cachorro corre no jardim, pula no banco e late feliz para a galinha.
+208. Hoje está ensolarado e o céu está limpo, mas amanhã estará nublado e talvez chova.
+209. Paolo é forte, inteligente e generoso, enquanto Marco é sensível(leva tudo a mal), nervoso e desatento.
+210. Sobre a mesa havia uma maçã, uma laranja, geleia de morango e pão fresco.
+211. Estou com fome, com frio e um pouco cansado após uma longa caminhada à beira do mar.
+212. O carro está estacionado ao lado da escola, sob a palmeira perto da biblioteca.
+213. Marta acorda, se veste com uma camiseta azul e se prepara para ir ao escritório.
+214. As crianças jogam futebol com entusiasmo enquanto os pais as observam da varanda.
+215. Na sala de estar há um sofá confortável, uma luminária moderna e a televisão ligada.
+216. Durante o inverno usamos casaco, cachecol, luvas e botas quentes.
+217. O turista pede indicações para a estação ferroviária e passa em frente à prefeitura.
+218. O trem parte às oito, chega ao centro histórico e para perto da catedral.
+219. A biblioteca está cheia de livros interessantes, prateleiras altas e uma escrivaninha elegante.
+220. Após o almoço, o garçom traz a sobremesa, um copo de suco e um café.
+221. Minha irmã ama natação, ginástica e vai frequentemente à piscina com os amigos.
+222. Estou usando calças largas, suéter verde e sapatos elegantes para o aniversário.
+223. No mercado vendem-se tomates, abobrinhas, queijos, pão e mel natural.
+224. O arquiteto trabalha em seu estúdio, desenha edifícios modernos e projetos originais.
+225. A garota é tímida, mas muito curiosa, ama ler e escrever histórias profundas.
+226. O avô é idoso, sábio e conta lembranças do campo e da guerra.
+227. No museu há estátuas antigas, pinturas famosas e uma exposição de fotografia.
+228. O tempo está variável: esta manhã chovia, agora faz sol e depois vai nevar.
+229. A fonte no centro da praça está cheia de turistas com câmeras fotográficas.
+230. A pia está suja, a cozinha está cheia de gente e alguém deixou a faca fora do lugar.
+231. O menino constrói uma torre com blocos coloridos e sorri.
+232. A mãe prepara uma salada fresca, corta os legumes e despeja o tempero.
+233. À noite olhamos as estrelas da varanda e escutamos música suave.
+234. À tarde passeamos ao longo do rio e tomamos um sorvete.
+235. Os garotos tocam violão, cantam músicas italianas e dançam.
+236. O gato dorme na poltrona enquanto chove lá fora.
+237. A camisa está branca, passada e pronta para a reunião de amanhã.
+238. No pátio há uma bicicleta, um balanço e um banco de madeira.
+239. Comprei uma jaqueta nova, um chapéu elegante e uma gravata vermelha.
+240. Durante a aula de arte pintamos paisagens e formas abstratas.
+241. O menino come uma maçã, bebe suco e ri com o avô.
+242. No domingo iremos à montanha fazer um piquenique e fotografar a natureza.
+243. Os jovens são alegres, faladores e sempre cheios de energia.
+244. O filme é interessante, bem feito e com atores famosos.
+245. Hoje me sinto feliz, curioso e pronto para aprender novas palavras.
+246. O tempo está bom, o sol brilha e o ar está fresco.
+247. Na sala há almofadas coloridas, uma mesa redonda e um tapete macio.
+248. Na carteira havia livros, cadernos, canetas e uma garrafa de água.
+249. A garota usa uma saia longa, um colar dourado e óculos de sol.
+250. O professor é calmo, inteligente e explica com grande clareza.
+251. Visitamos(passado) a catedral, o museu e passeamos pelo centro histórico.
+252. As crianças desenham animais, flores e árvores usando lápis de cor.
+253. O cachorro brinca com a bola, pula e corre no gramado.
+254. No café da manhã comemos pão, geleia, ovos e tomamos café.
+255. O supermercado está cheio: há mães, crianças e pessoas idosas.
+256. O ar está úmido, o céu está cinza e a chuva está chegando.
+257. No restaurante servem pizza, massa, sobremesas e vinho tinto.
+258. O mar está azul, calmo e veem-se barcos ao longe.
+259. A fonte em frente à igreja está iluminada e cercada de flores.
+260. Fizemos um passeio de barco, visitamos as ilhas e nadamos no mar.
+261. O menino escreve seu próprio nome, colore uma casa e sorri.
+262. Estou usando botas, cachecol e casaco para me proteger do frio.
+263. Os garotos escutam música rock, conversam e riem juntos.
+264. Na cozinha há cheiro de pão fresco, café e biscoitos.
+265. A mãe lava os pratos, limpa a mesa e prepara o almoço.
+266. O gato sobe na árvore e olha os pássaros.
+267. Os alunos entram na sala, abrem os livros e começam a aula.
+268. Na primavera florescem as flores, as árvores se colorem e o ar é perfumado.
+269. O garçom traz duas pizzas, uma salada e água mineral.
+270. Visitamos(passado) um castelo antigo, caminhamos entre as ruínas e fotografamos a paisagem.
+271. Os pais leem o jornal, tomam chá e conversam com tranquilidade.
+272. O trem chega pontualmente, as portas se abrem e os passageiros descem.
+273. Comprei frutas frescas, legumes orgânicos e pão integral.
+274. O menino assiste a um desenho animado barulhento e ri alto.
+275. A garota ouve música, lê um romance e escreve no diário.
+276. O céu está nublado, venta e parece que vai nevar.
+277. As crianças jogam bola, correm e gritam com entusiasmo.
+278. Estou com fome, mas tenho apenas uma maçã e um pouco de pão.
+279. Fizemos exercícios de gramática, conjugamos verbos e lemos um texto.
+280. A professora ensina história, mostra mapas e conta eventos importantes.
+281. A casa está limpa, arrumada e cheira a lavanda.
+282. Os garotos preparam a mala para a viagem: roupas, livros e uma câmera.
+283. No cinema há silêncio enquanto o filme começa.
+284. O avô passeia lentamente no jardim e cumprimenta os vizinhos.
+285. (passado)Pegamos o ônibus, atravessamos o centro e visitamos um mercado.
+286. O rapaz usa sapatos novos, jeans e uma camiseta esportiva.
+287. Hoje estudamos italiano, revisamos o vocabulário e fazemos exercícios.
+288. Sobre a mesa há frutas, queijo e uma garrafa de vinho.
+289. A professora confere a lista de alunos e distribui as (foto)cópias.
+290. A menina chora porque perdeu seu brinquedo favorito.
+291. O supermercado está aberto e vende frutas, verduras e pão fresco.
+292. O trem está atrasado por causa da chuva.
+293. Os garotos jogam cartas na mesa da cozinha.
+294. No parque há balanços, escorregadores e areia para as crianças.
+295. Marta escreve um poema em seu diário pessoal.
+296. O professor lê um livro interessante e toma notas.
+297. A casa no campo tem um jardim florido e uma varanda espaçosa.
+298. O cachorro late quando vê o carteiro chegar.
+299. (Passado)Tomamos café no bar e conversamos sobre o fim de semana.
+300. À tarde, passamos tempo com a família em frente à televisão.
+301. A criança sorri quando vê a mãe entrar com os biscoitos.
+302. A moça recebe uma carta especial do seu amigo na França.
+303. No mercado encontram-se queijos locais, mel e verduras frescas.
+304. Os turistas visitam a catedral e fotografam a arquitetura histórica.
+305. Depois do jantar assistimos a um filme divertido e tomamos sorvete.
+306. O pai joga futebol com os filhos no jardim.
+307. A fonte da praça é cercada por flores coloridas.
+308. O gato salta sobre a mesa e observa curiosamente os pratos.
+309. A menina lê um conto de fadas antes de ir dormir.
+310. A sala de jantar é iluminada por uma luminária elegante.
+311. As crianças fazem um bolo com a mãe e decoram com açúcar.
+312. O céu está cinza e cai uma chuva fina.
+313. Caminhamos por horas ao longo do lago tranquilo.
+314. Marta e Luca se encontram no bar para um cappuccino.
+315. As janelas estão abertas e se ouve o canto dos pássaros.
+316. O avô conta uma história emocionante da sua juventude.
+317. A criança se veste de pirata para a festa.
+318. O almoço é composto de macarrão com molho, salada e frutas.
+319. Os rapazes estudam juntos na biblioteca depois da escola.
+320. Na sala de estar há uma poltrona vermelha e um tapete cinza.
+321. O trem parte da plataforma três com destino a Nápoles.
+322. A mãe compra um maço de flores no mercado.
+323. As crianças tomam café da manhã com cereais, leite e bananas.
+324. A fonte central é um espetáculo de luzes e sons.
+325. O pai lê o jornal e toma café.
+326. A mãe cozinha o jantar enquanto as crianças põem a mesa.
+327. O gato se esconde debaixo da cama quando ouve barulhos fortes.
+328. O professor escreve no quadro e os alunos copiam no caderno.
+329. A moça se maquia para sair com as amigas.
+330. A criança colore um desenho com canetinhas.
+331. O romancista observa o pôr do sol pela janela e escreve com paixão.
+332. (passado)Limpamos a cozinha, lavamos a louça e arrumamos a mesa (tirar as coisas da mesa).
+333. No gramado há margaridas, violetas e um coelhinho.
+334. No domingo iremos ao museu e visitaremos a exposição de arte moderna.
+335. Eu visto a camiseta azul e calças confortáveis para ir ao parque.
+336. Os pais são atenciosos(!), acompanham os filhos à escola e os ajudam com as tarefas.
+337. No outono as folhas caem, o vento sopra e o céu se encobre.
+338. Comprei uma caixa de biscoitos, um suco de laranja e leite.
+339. Os avós contam histórias antigas em frente à lareira acesa.
+340. No banheiro há um espelho, uma toalha e sabonete líquido.
+341. Durante o passeio vimos um castelo, um rio e uma cachoeira.
+342. A menina canta uma canção doce enquanto desenha.
+343. O jardim está cheio de flores, árvores e borboletas.
+344. Os turistas tiram fotos da fonte, dos palácios e das estátuas.
+345. O professor corrige as tarefas, explica a lição e distribui as canetas.
+346. O ar está fresco, o céu está limpo e os pássaros cantam.
+347. (Passado)Comemos macarrão ao pesto, legumes grelhados e uma fatia de bolo.
+348. O café está quente, perfumado e servido com biscoitos.
+349. A moça está calma, lê um livro e sorri na janela.
+350. O temporal chega: trovões, relâmpagos e chuva forte.
+351. As crianças pintam com aquarela, cores vivas e grande entusiasmo.
+352. A cidade está viva: música nos bares, gente nas ruas e luzes coloridas.
+353. No sábado farei uma caminhada na montanha com os amigos.
+354. A pizza é assada no forno a lenha e é muito saborosa.
+355. O suéter vermelho é quente, macio e perfeito para o inverno.
+356. Na escola estudamos ciências, matemática e gramática italiana.
+357. No jardim há uma fonte, bancos e árvores altas.
+358. A mãe prepara o almoço com amor: risoto, carne e verduras.
+359. O trem rápido liga Milão a Roma em poucas horas.
+360. No supermercado encontrei mel, azeite de oliva e macarrão integral.
+361. O despertador toca cedo e eu me levanto para tomar café da manhã.
+362. O hotel tem quartos espaçosos, equipe gentil e uma vista maravilhosa.
+363. A janela dá para o mar, se vê o horizonte e os barcos distantes.
+364. A criança constrói uma torre com os blocos coloridos.
+365. (Passado)Assistimos a um espetáculo teatral emocionante.
+366. As ruas estão molhadas, as pessoas carregam guarda-chuva e caminham lentamente.
+367. O dia é longo, cheio de compromissos e atividades escolares.
+368. A tia cozinha raviólis caseiros com molho de tomate.
+369. O livro fala de aventuras, viagens e personagens fantásticos.
+370. Na geladeira faltam ovos, leite e manteiga.
+371. Assistimos a um filme romântico com uma bela trilha sonora.
+372. A papelaria vende canetas, cadernos e tintas guache.
+373. O parque é silencioso, tranquilo e perfeito para relaxar.
+374. Escrevi uma carta à mão e a enviei pelo correio.
+375. As crianças riem, pulam e brincam sob o sol.
+376. No shopping há lojas de roupas e cafeterias.
+377. O professor faz perguntas e os alunos respondem com interesse.
+378. O almoço está pronto: macarrão, salada e uma fatia de bolo.
+379. O céu escurece, as nuvens cobrem o sol e começa a chover.
+380. No sofá há almofadas vermelhas e uma manta macia.
+381. A moça escreve no diário os pensamentos do dia.
+382. Fizemos uma caminhada na praia ao pôr do sol.
+383. O aniversário foi comemorado com doces, jogos/brincadeiras e música.
+384. O caminhão passa rápido em frente à escola.
+385. A criança assiste ao desenho animado e come pipoca.
+386. No gramado há joaninhas, borboletas e abelhas trabalhadoras.
+387. O tempo muda frequentemente na primavera.
+388. Compramos frutas, verduras e pão no mercado.
+389. A moça toma banho, se seca e se penteia.
+390. O mar está calmo, azul e cheio de barcos.
+391. Os jovens leem um livro e conversam com o professor.
+392. Na gaveta há tesouras, canetas e borrachas.
+393. O pai dirige o carro pela estrada da montanha.
+394. O restaurante oferece pratos típicos e um ambiente acolhedor.
+395. O sol se põe atrás das montanhas.
+396. A criança brinca com o trenzinho e ri feliz.
+397. A mãe limpa a casa enquanto ouve rádio.
+398. Os avós sentam no sofá e assistem à televisão.
+399. O bolo é doce, macio e decorado com frutas frescas.
+400. No pátio há um balanço e uma bicicleta.
+401. O cozinheiro mistura os ingredientes na tigela.
+402. A paisagem do terraço é fantástica.
+403. O rapaz usa óculos e lê uma história em quadrinhos.
+404. A professora escreve no quadro com giz.
+405. No parquinho há escorregadores e balanços.
+406. Marta telefona para a amiga para convidá-la para jantar.
+407. A loja fecha às oito da noite.
+408. O menino lancha no jardim.
+409. Os rapazes pegam o ônibus para ir à escola.
+410. O livro é interessante e bem escrito.
+411. O cachorro segue o dono pelo caminho.
+412. O filme começa às nove da noite.
+413. O quarto está arrumado, limpo e iluminado.
+414. O sol aquece o rosto enquanto caminho.
+415. A menina desenha com lápis de cor.
+416. Os pais leem o jornal enquanto as crianças brincam.
+417. O outono traz folhas vermelhas e ar fresco.
+418. O gato se espreguiça e dorme no tapete.
+419. Eu escrevi um conto curto para a escola.
+420. O avião decola do aeroporto internacional.
+421. Nós fotografamos o pôr do sol na praia.
+422. A aula terminou e todos voltam para casa.
+423. O vento move as cortinas da janela.
+424. O livro está no criado-mudo ao lado da cama.
+425. A mamãe prepara o chá e os biscoitos.
+426. O papai monta a estante nova.
+427. As crianças ouvem música com fones de ouvido.
+428. O trem passa em frente à estação.
+429. Marta pinta uma paisagem na tela.
+430. O menino procura seu brinquedo preferido.
+431. O sol brilha no céu azul.
+432. A professora corrige as lições de casa.
+433. O gato sobe no móvel.
+434. O supermercado vende pão fresco todas as manhãs.
+435. O livro fala sobre viagens e aventuras na África.
+436. O rapaz arruma seu quarto.
+437. As crianças brincam de esconde-esconde.
+438. O cachorro cava no jardim.
+439. O garçom serve o jantar com um sorriso.
+440. A geladeira está cheia de comida.
+441. O menino fecha a porta e se senta.
+442. O professor entra na sala com uma pasta.
+443. A sala está cheia de estudantes.
+444. O bonde corre rápido pelas ruas da cidade.
+445. O sorvete é de morango e chocolate.
+446. Marta assiste televisão no sofá.
+447. O céu está estrelado e tranquilo.
+448. A menina ri e pula de alegria.
+449. O papai lê um livro enquanto chove.
+450. As crianças constroem castelos de areia na praia e recolhem conchas.
+451. O gato segue a luz do sol e se deita perto da janela.
+452. As crianças escrevem uma história juntas e a ilustram com desenhos coloridos.
+453. O trem atravessa o campo, passando por colinas verdes e vilarejos pitorescos.
+454. A moça pratica no piano e experimenta uma nova melodia.
+455. O mercado está cheio de gente comprando frutas, verduras e especiarias.
+456. A família janta junta todas as noites, contando o dia com alegria.
+457. O parquinho está cheio de crianças que correm, riem e se divertem.
+458. A professora prepara uma prova de gramática para amanhã.
+459. O menino acorda cedo e veste sua mochila para a escola.
+460. Na sala há uma estante cheia de romances e contos curtos.
+461. A mamãe estende as roupas na varanda enquanto canta uma canção.
+462. Os rapazes caminham ao longo do rio e fotografam a natureza.
+463. O sol ilumina o quarto através das cortinas leves.
+464. O papai prepara um café da manhã com torradas, geleia e suco de laranja.
+465. O gato observa os pássaros da janela e mexe o rabo.
+466. Os estudantes estudam para o exame final com grande concentração.
+467. No jardim florescem tulipas, rosas e girassóis.
+468. O vovô conserta a bicicleta do neto com paciência.
+469. A menina escreve uma carta para sua amiga na montanha.
+470. O filme de ação está cheio de reviravoltas e efeitos especiais.
+471. O lanche está pronto: pão, creme de avelã e suco de fruta.
+472. As crianças leem contos de fadas debaixo das cobertas antes de dormir.
+473. O lago reflete as montanhas e as árvores ao redor.
+474. A mamãe compra o detergente e os produtos de limpeza.
+475. O rapaz sobe na bicicleta e pedala até o parque.
+476. O sorvete derrete ao sol e pinga no cone.
+477. O professor prepara os boletins para o fim do trimestre.
+478. As crianças fazem bonecos de neve no jardim nevado.
+479. A biblioteca tem novos livros disponíveis para empréstimo.
+480. A moça arruma o quarto e organiza as roupas.
+481. O café está pronto e o aroma enche a cozinha.
+482. O papai leva o cachorro para passear no bairro.
+483. A menina acende uma lanterna e olha para o céu noturno.
+484. Os rapazes cantam uma canção durante a viagem de ônibus.
+485. O jantar está servido: lasanha, salada e torta de frutas.
+486. O gato brinca com um novelo no tapete.
+487. A vovó conta uma fábula aos netos antes de dormir.
+488. O rapaz veste uma jaqueta e sai para encontrar os amigos.
+489. A mesa está posta com pratos, copos e talheres coloridos.
+490. As crianças pulam nas poças depois da chuva.
+491. O sol nasce lentamente atrás das colinas.
+492. Marta lê uma revista enquanto bebe chá quente.
+493. O professor corrige os erros nos deveres com atenção.
+494. O menino pinta um arco-íris com tintas guache.
+495. A escola está fechada para as férias de verão.
+496. O papai planta flores no jardim com o filho.
+497. Os rapazes jogam vôlei na praia.
+498. A mamãe assa o pão e o deixa esfriar na mesa.
+499. Os avós levam os netos ao parque todo sábado.
+500. A fonte jorra água fresca e relaxante na praça central.
+501. Então, se vocês estiverem prontos, podemos começar a reunião.
+502. Ainda há muito caminho a percorrer antes de chegar ao sucesso.
+503. Onde vocês colocaram as chaves que minha mãe deixou?
+504. Mesmo que esteja cansado, você deve terminar o trabalho até esta noite.
+505. Preciso de alguém que possa me ouvir sem julgar.
+506. Esta é uma das muitas experiências que mudaram minha vida.
+507. Você realmente acredita que ele disse a verdade?
+508. Ela não quer sair porque está se sentindo mal há alguns dias.
+509. Eu sei que você não fez nada de errado.
+510. Senhor, o senhor quer que eu lhe mostre o caminho para o centro?
+511. Dissemos a todos que a festa foi cancelada.
+512. Pode me explicar melhor o que você quis dizer com aquela frase?
+513. Não preciso de nada, obrigado, estou bem assim.
+514. Quem moveu os documentos que estavam ali na mesa?
+515. Claro, se você precisar de ajuda, posso ir com você.
+516. É uma situação em que devemos agir com muito cuidado.
+517. Não há nenhuma razão para nos preocuparmos.
+518. Por favor, senhora, acomode-se em nossa sala de espera.
+519. Decidimos partir em outro momento, talvez amanhã.
+520. Quero que você entenda o quanto é importante para mim.
+521. Seu pai me disse que você vai para o exterior.
+522. Quantos anos você tem? Eu tenho trinta e cinco.
+523. Se não me engano, vocês falaram sobre isso também na semana passada.
+524. Oh, ei, mas olha só quem aparece! Como vai?
+525. Não é culpa de ninguém, foi apenas um mal-entendido.
+526. Eu não posso aceitar uma resposta desse tipo, desculpe.
+527. Você é sempre tão prestativo, muito obrigado.
+528. Quer vir conosco ao cinema hoje à noite?
+529. Devo admitir que essa ideia é realmente interessante.
+530. Ela disse que vai pensar e nos avisar.
+531. Olá, vou lhe apresentar uma certa Paola, ela trabalha conosco.
+532. Por que você não me disse antes que estava na cidade?
+533. Se estiver chovendo, é melhor ficar em casa.
+534. Nunca ouvi nada parecido, é incrível!
+535. Conhecemos outras pessoas muito gentis durante a viagem.
+536. Esta é uma decisão que cabe a vocês, não a nós.
+537. Gostaria de encontrar uma maneira de resolver esta situação.
+538. Estamos muito felizes que você tenha vindo nos visitar.
+539. Não é o momento certo, falaremos sobre isso outra hora.
+540. Eu acredito que é importante ouvir todas as opiniões.
+541. Tome cuidado ao atravessar a rua.
+542. Ele me disse que partiu sem se despedir de ninguém.
+543. Há algo de errado no que você disse.
+544. Aqui está o documento que você deve assinar até hoje.
+545. Sim, me lembro bem daquele dia, foi especial.
+546. Seu filho fez muitos progressos este ano.
+547. Vamos, não fique assim, tudo vai se resolver!
+548. O professor nos explicou a lição de forma muito clara.
+549. Esses comportamentos não são aceitáveis nesta escola.
+550. Quando preciso relaxar, fico com minha família.

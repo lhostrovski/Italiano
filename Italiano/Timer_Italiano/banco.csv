@@ -1,0 +1,551 @@
+ID,Frase_PT,Frase_IT,Score
+1,1. Voltei para casa depois de um longo dia de trabalho.,1. Sono tornato a casa dopo una lunga giornata di lavoro. ,0
+2,2. Preparei um jantar leve com macarrão e legumes.,2. Ho preparato una cena leggera con pasta e verdure.,0
+3,3. Assistimos (passado) a um filme divertido com a família.,3. Abbiamo guardato un film divertente insieme alla famiglia.,0
+4,"4. Depois do filme, conversamos (no passado) um pouco sobre o dia.","4. Dopo il film, abbiamo parlato un po’ della giornata.",0
+5,5. Eu acordo todas as manhãs às sete.,5. Mi sveglio ogni mattina alle sette.,0
+6,6. Tomo um café forte para começar o dia.,6. Bevo un caffè forte per iniziare la giornata.,1
+7,7. Saio de casa e pego o ônibus para ir ao trabalho.,7. Esco di casa e prendo l’autobus per andare al lavoro.,1
+8,"8. No trabalho, verifico os e-mails e planejo as atividades.","8. Al lavoro, controllo le e-mail e pianifico le attività.",0
+9,"9. Durante a pausa para o almoço, como um sanduíche no bar.","9. Durante la pausa pranzo, mangio un panino al bar.",0
+10,"10. À tarde, participo de reuniões e termino as tarefas.",10. Nel pomeriggio partecipo a riunioni e finisco i compiti.,1
+11,"11. Depois do trabalho, faço uma caminhada no parque.","11. Dopo il lavoro, faccio una passeggiata nel parco.",0
+12,12. Volto para casa e preparo o jantar com minha esposa.,12. Torno a casa e preparo la cena con mia moglie.,1
+13,13. Jantamos juntos e depois lemos um livro.,13. Ceniamo insieme e poi leggiamo un libro.,0
+14,14. Tomo um chá de ervas antes de ir dormir.,14. Bevo una tisana prima di andare a dormire.,0
+15,15. Muitas vezes sonho em viajar para países distantes.,15. Spesso sogno di viaggiare in paesi lontani.,1
+16,16. Levanto da cama e tomo um banho rápido.,16. Mi alzo dal letto e faccio una doccia veloce.,0
+17,17. Escolho as roupas e me visto depressa.,17. Scelgo i vestiti e mi vesto in fretta.,0
+18,18. Pego a mochila e corro para a parada de ônibus.,18. Prendo lo zaino e corro alla fermata dell'autobus.,0
+19,"19. O trem está lotado, mas encontro um lugar para sentar.","19. Il treno è affollato, ma trovo un posto a sedere.",0
+20,20. Ouço música enquanto olho para fora da janelinha.,20. Ascolto musica mentre guardo fuori dal finestrino.,0
+21,"21. O céu está nublado, mas não chove ainda.","21. Il cielo è nuvoloso, ma non piove ancora.",0
+22,22. Chego ao escritório e cumprimento os colegas.,22. Arrivo in ufficio e saluto i colleghi.,0
+23,23. Ligo o computador e começo a trabalhar.,23. Accendo il computer e inizio a lavorare.,0
+24,24. Atendo telefonemas e escrevo documentos.,24. Rispondo a telefonate e scrivo documenti.,1
+25,25. A pausa para o café é um momento para relaxar.,25. La pausa caffè è un momento per rilassarsi.,1
+26,26. Conversamos sobre o fim de semana com os colegas.,26. Parliamo del fine settimana con i colleghi.,0
+27,27. Volto para a mesa e continuo o trabalho.,27. Ritorno alla scrivania e continuo il lavoro.,0
+28,28. Termino um projeto importante antes do fim do dia.,28. Finisco un progetto importante prima di sera.,0
+29,29. Despeço-me de todos e deixo o escritório.,29. Saluto tutti e lascio l’ufficio.,0
+30,"30. Em casa, cumprimento as crianças que estão brincando.","30. A casa, saluto i bambini che giocano.",1
+31,31. Ajudo com as lições de casa e arrumo a mesa.,31. Aiuto con i compiti e preparo la tavola.,0
+32,32. Jantamos com risadas e histórias do dia.,32. Ceniamo con risate e racconti della giornata.,0
+33,"33. Depois do jantar, assistimos às notícias na TV.","33. Dopo cena, guardiamo le notizie in TV.",0
+34,34. Leio um capítulo do meu livro favorito.,34. Leggo un capitolo del mio libro preferito.,0
+35,35. Apago as luzes e vou dormir.,35. Spengo le luci e mi metto a dormire.,0
+36,36. Acordo com o canto dos pássaros.,36. Mi sveglio con il canto degli uccelli.,0
+37,37. Abro a janela para deixar entrar ar fresco.,37. Apro la finestra per far entrare aria fresca.,0
+38,38. Preparo o café da manhã para todos.,38. Preparo la colazione per tutti.,1
+39,39. Comemos pão torrado com geleia.,39. Mangiamo pane tostato con marmellata.,0
+40,40. Bebemos suco de laranja recém-espremido.,40. Beviamo succo d’arancia appena spremuto.,1
+41,41. As crianças se vestem para ir à escola.,41. I bambini si vestono per andare a scuola.,-1
+42,42. Levo elas até o ponto do ônibus escolar.,42. Li accompagno fino alla fermata dello scuolabus.,0
+43,43. Cumprimento os vizinhos ao voltar para casa.,43. Saluto i vicini mentre torno a casa.,-1
+44,"44. Hoje trabalho de casa, começo no computador.","44. Oggi lavoro da casa, inizio al computer.",0
+45,45. Escrevo um artigo para o blog da empresa.,45. Scrivo un articolo per il blog aziendale.,0
+46,46. Faço uma pausa e tomo um café.,46. Faccio una pausa e bevo un caffè.,0
+47,47. Ouço um podcast enquanto arrumo a casa.,47. Ascolto un podcast mentre sistemo casa.,0
+48,48. Limpo a cozinha e organizo.,48. Pulisco la cucina e metto in ordine.,0
+49,49. A máquina de lavar está ligada e gira rápido.,49. La lavatrice è accesa e gira veloce.,0
+50,50. Coloco as roupas (lavadas) para secar ao sol.,50. Metto i panni ad asciugare al sole.,0
+51,51. Volto ao computador e respondo e-mails.,51. Torno al computer e rispondo alle e-mail.,0
+52,52. Almoço com uma salada e um pedaço de pão.,52. Pranzo con un’insalata e un pezzo di pane.,2
+53,"53. Depois do almoço, me deito para um breve descanso.","53. Dopo pranzo, mi sdraio per un breve riposo.",0
+54,54. Acordo e tomo um copo de água.,54. Mi sveglio e bevo un bicchiere d’acqua.,0
+55,55. Continuo trabalhando em um novo projeto.,55. Continuo a lavorare su un nuovo progetto.,0
+56,56. Ligo para um colega para discutir uma proposta.,56. Chiamo un collega per discutere una proposta.,0
+57,57. Escrevemos juntos um documento de apresentação.,57. Scriviamo insieme un documento di presentazione.,0
+58,58. Salvamos o arquivo e o enviamos ao chefe.,58. Salviamo il file e lo inviamo al capo.,-1
+59,59. Desligo o computador e me preparo para sair.,59. Spengo il computer e mi preparo a uscire.,0
+60,60. Vou ao supermercado fazer compras.,60. Vado al supermercato per fare la spesa.,0
+61,"61. Compro frutas, legumes, pão e queijo.","61. Compro frutta, verdura, pane e formaggio.",0
+62,62. Passo no caixa e pago com o cartão.,62. Passo alla cassa e pago con la carta.,0
+63,63. Cumprimento o caixa e volto para casa.,63. Saluto il cassiere e torno a casa.,0
+64,64. Guardo os produtos nos armários e na geladeira.,64. Metto via i prodotti nelle credenze e nel frigo.,0
+65,65. Preparo um bolo para o aniversário da minha filha.,65. Preparo una torta per il compleanno di mia figlia.,1
+66,66. Decoro a casa com balões e enfeites.,66. Decoro la casa con palloncini e festoni.,0
+67,67. Os convidados chegam com presentes e sorrisos.,67. Gli invitati arrivano con regali e sorrisi.,1
+68,"68. Cantamos ""Parabéns"" e cortamos o bolo.",68. Cantiamo “Tanti auguri” e tagliamo la torta.,1
+69,69. As crianças brincam e se divertem juntas.,69. I bambini giocano e si divertono insieme.,0
+70,70. Tiramos fotos de lembrança com toda a família.,70. Scattiamo foto ricordo con tutta la famiglia.,0
+71,71. A noite termina com uma história lida para os pequenos.,71. La serata finisce con una storia letta ai piccoli.,0
+72,72. Coloco as crianças para dormir com um beijo.,72. Metto i bambini a dormire con un bacio.,0
+73,73. Arrumo a cozinha e varro o chão.,73. Sistemo la cucina e spazzo il pavimento.,0
+74,74. Me sento no sofá com meu marido.,74. Mi siedo sul divano con mio marito.,0
+75,75. Falamos sobre os planos para o fim de semana.,75. Parliamo dei piani per il fine settimana.,0
+76,76. Assistimos à previsão do tempo.,76. Guardiamo le previsioni del tempo.,0
+77,77. Programamos um passeio fora da cidade.,77. Programmiamo una gita fuori città.,0
+78,78. Preparo as mochilas com água e lanche.,78. Preparo gli zaini con acqua e merenda.,1
+79,79. Coloco o despertador cedo para amanhã.,79. Metto la sveglia presto per domani.,0
+80,80. Fecho os olhos e penso em coisas boas.,80. Chiudo gli occhi e penso alle cose belle.,0
+81,81. Durmo profundamente até de manhã.,81. Dormo profondamente fino al mattino.,0
+82,82. Me levanto e dou boas-vindas ao novo dia.,82. Mi alzo e saluto il nuovo giorno.,0
+83,83. Visto roupas confortáveis para o passeio (excursão).,83. Indosso abiti comodi per l’escursione.,0
+84,84. Carregamos o carro e partimos.,84. Carichiamo l’auto e partiamo.,0
+85,85. A estrada está livre e a viagem agradável.,85. La strada è libera e il viaggio piacevole.,0
+86,86. Ouvimos músicas e cantamos juntos.,86. Ascoltiamo canzoni e cantiamo insieme.,0
+87,87. Chegamos ao lago cercado por montanhas.,87. Arriviamo al lago circondato da montagne.,0
+88,88. Fazemos uma caminhada pela trilha.,88. Facciamo una passeggiata sul sentiero.,1
+89,89. Tiramos fotos da natureza ao nosso redor.,89. Scattiamo foto alla natura intorno a noi.,0
+90,90. Paramos para comer à beira da água.,90. Ci fermiamo a mangiare in riva all’acqua.,1
+91,91. As crianças brincam com pedras e água.,91. I bambini giocano con le pietre e l’acqua.,0
+92,92. Relaxamos na grama olhando as nuvens.,92. Ci rilassiamo sull’erba guardando le nuvole.,-1
+93,93. Voltamos para casa com o coração cheio.,93. Torniamo a casa con il cuore pieno.,0
+94,94. Conversamos sobre os melhores momentos do dia.,94. Parliamo dei momenti migliori della giornata.,0
+95,95. Colocamos tudo em ordem e tomamos banho.,95. Mettiamo tutto in ordine e ci facciamo la doccia.,-1
+96,96. Preparo um jantar rápido com o que tem.,96. Preparo una cena veloce con quello che c’è.,0
+97,97. Tomamos um chá de ervas e contamos histórias.,97. Beviamo una tisana e raccontiamo storie.,0
+98,98. As crianças desenham os momentos preferidos.,98. I bambini disegnano i momenti preferiti.,0
+99,99. Penduramos os desenhos na geladeira.,99. Appendiamo i disegni sul frigorifero.,0
+100,100. Dizemos boa noite e vamos dormir.,100. Diciamo buonanotte e andiamo a dormire.,0
+101,101. Acordo cedo e preparo o café da manhã.,101. Mi sveglio presto e preparo la colazione.,0
+102,102. Hoje é um dia especial no trabalho.,102. Oggi è una giornata speciale per il lavoro.,0
+103,103. Visto um traje elegante para um encontro importante.,103. Indosso un abito elegante per un incontro importante.,0
+104,104. Chego ao escritório com alguns minutos de antecedência.,104. Arrivo in ufficio con qualche minuto di anticipo.,0
+105,105. Cumprimento o diretor e os outros colegas.,105. Saluto il direttore e gli altri colleghi.,-1
+106,106. Participamos de uma reunião estratégica.,106. Partecipiamo a una riunione strategica.,-1
+107,107. Discutimos novos projetos e ideias inovadoras.,107. Discutiamo nuovi progetti e idee innovative.,1
+108,108. Tomamos notas e planejamos as atividades.,108. Prendiamo appunti e pianifichiamo le attività.,0
+109,"109. Terminada a reunião, respondo muitos e-mails.","109. Finita la riunione, rispondo a molte e-mail",1
+110,110. Preparo uma apresentação para o cliente.,110. Preparo una presentazione per il cliente.,1
+111,111. Revejo os dados e verifico a precisão/exatidão.,111. Rivedo i dati e controllo la correttezza.,0
+112,112. Mando a apresentação para a equipe dar feedback.,112. Mando la presentazione al team per un feedback.,1
+113,113. Almoço com uma salada e um suco de fruta.,113. Pranzo con un’insalata e un succo di frutta.,0
+114,114. Falo ao telefone com um parceiro comercial.,114. Parlo al telefono con un partner commerciale.,0
+115,115. Organizo uma viagem de trabalho para a próxima semana.,115. Organizzo un viaggio di lavoro per la settimana prossima.,0
+116,116. Verifico o calendário e confirmo as datas.,116. Controllo il calendario e confermo le date.,0
+117,117. Escrevo um relatório para o chefe de setor.,117. Scrivo un report per il capo ufficio.,0
+118,118. Faço uma pausa para o café com os colegas.,118. Faccio una pausa caffè con i colleghi.,0
+119,119. Discutimos os próximos eventos da empresa.,119. Discutiamo dei prossimi eventi aziendali.,-1
+120,120. Volto à mesa e finalizo um documento.,120. Torno alla scrivania e finalizzo un documento.,0
+121,121. Envio as últimas comunicações antes de sair.,121. Invio le ultime comunicazioni prima di uscire.,0
+122,122. Me despeço de todos e desligo o computador.,122. Saluto tutti e spengo il computer.,1
+123,123. Pego o ônibus para voltar para casa.,123. Prendo l’autobus per tornare a casa.,-1
+124,124. Me relaxo ouvindo música durante a viagem.,124. Mi rilasso ascoltando musica durante il viaggio.,0
+125,125. Chego em casa e encontro a família reunida.,125. Arrivo a casa e trovo la famiglia riunita.,0
+126,126. Ajudo as crianças com a lição de casa.,126. Aiuto i bambini con i compiti di scuola.,0
+127,127. Cozinho o jantar com ingredientes frescos.,127. Cucino la cena con ingredienti freschi.,0
+128,128. Jantamos todos juntos e contamos sobre o dia.,128. Ceniamo tutti insieme e raccontiamo la giornata.,-1
+129,"129. Depois do jantar, assistimos a um programa na TV.","129. Dopo cena, guardiamo un programma in TV.",0
+130,130. Leio um livro de ficção antes de dormir.,130. Leggo un libro di narrativa prima di dormire.,0
+131,131. Apago a luz e fecho os olhos.,131. Spengo la luce e chiudo gli occhi.,0
+132,132. Adormeço pensando em novos sonhos.,132. Mi addormento pensando a nuovi sogni.,-1
+133,133. Acordo renovado e pronto para começar.,133. Mi sveglio rinfrescato e pronto per iniziare.,0
+134,134. Preparo um café da manhã reforçado (energético).,134. Preparo una colazione energetica.,0
+135,135. Saio de casa para uma corrida matinal.,135. Esco di casa per una corsa mattutina.,0
+136,136. Corro no parque próximo e respiro ar puro.,136. Corro nel parco vicino e respiro aria fresca.,1
+137,137. Volto para casa e tomo um banho quente.,137. Torno a casa e faccio una doccia calda.,1
+138,138. Visto roupas leves e confortáveis.,138. Indosso abiti comodi e leggeri.,1
+139,139. Leio as notícias online enquanto tomo café.,139. Leggo le notizie online mentre bevo il caffè.,0
+140,140. Respondo mensagens e ligo para um amigo.,140. Rispondo a messaggi e telefono a un amico.,0
+141,141. Faço compras no mercado do bairro.,141. Faccio la spesa al mercato del quartiere.,0
+142,142. Escolho frutas frescas e legumes da estação.,142. Scelgo frutta fresca e verdure di stagione.,0
+143,143. Volto para casa e preparo um almoço saudável.,143. Torno a casa e preparo un pranzo salutare.,0
+144,144. Convido um vizinho para o almoço.,144. Invito un vicino per pranzo.,0
+145,145. Passamos uma tarde agradável conversando.,145. Passiamo un pomeriggio piacevole a chiacchierare.,-1
+146,"146. Ajudo as crianças a prepararem um trabalho (trabalhinho, manual) criativo.",146. Aiuto i bambini a preparare un lavoretto creativo.,0
+147,147. Organizamos a casa para a festa do fim de semana.,147. Organizziamo la casa per la festa del weekend.,0
+148,148. Escrevo convites e preparo uma lista de convidados.,148. Scrivo inviti e preparo una lista degli ospiti.,0
+149,149. Visito o jardim e rego as plantas.,149. Visito il giardino e innaffio le piante.,0
+150,150. Me relaxo no sofá lendo uma revista.,150. Mi rilasso sul divano leggendo una rivista.,0
+151,"151. À noite, preparamos uma pizza caseira.","151. La sera, prepariamo una pizza fatta in casa.",-1
+152,152. Comemos rindo e compartilhando histórias.,152. Mangiamo ridendo e condividendo storie.,-1
+153,153. Assistimos a um filme comovente juntos.,153. Guardiamo un film commovente insieme.,1
+154,"154. Antes de dormir, faço meditação.","154. Prima di dormire, faccio meditazione.",0
+155,155. Fecho os olhos e me concentro na respiração.,155. Chiudo gli occhi e mi concentro sul respiro.,0
+156,156. Adormeço tranquilo e sereno.,156. Mi addormento tranquillo e sereno.,0
+157,157. Acordo com o sol entrando pela janela.,157. Mi sveglio con il sole che entra dalla finestra.,0
+158,158. Preparo o café da manhã com pão fresco e geleia.,158. Preparo la colazione con pane fresco e marmellata.,1
+159,159. Organizo o dia de trabalho.,159. Organizzo la giornata lavorativa.,0
+160,160. Faço uma videochamada com colegas do exterior.,160. Faccio una videochiamata con colleghi all’estero.,0
+161,161. Compartilhamos ideias e projetos futuros.,161. Condividiamo idee e progetti futuri.,0
+162,162. Escrevo um artigo para o boletim da empresa.,162. Scrivo un articolo per la newsletter aziendale.,1
+163,163. Almoço com uma salada leve.,163. Pranzo con un’insalata leggera.,0
+164,164. Respondo e-mails urgentes e ligo para um cliente.,164. Rispondo a e-mail urgenti e telefono a un cliente.,1
+165,165. Programo uma reunião para a semana seguinte.,165. Programmo una riunione per la settimana successiva.,-1
+166,166. Termino o trabalho e preparo a bolsa da academia.,166. Finisco il lavoro e preparo la borsa per la palestra.,0
+167,167. Vou correr e faço exercícios de alongamento.,167. Vado a correre e faccio esercizi di stretching.,1
+168,168. Volto para casa e tomo um banho refrescante.,168. Torno a casa e faccio una doccia rinfrescante.,0
+169,"169. Preparo um jantar rápido, mas gostoso.",169. Preparo una cena veloce ma gustosa.,0
+170,170. Passo a noite com a família jogando.,170. Passo la serata con la famiglia a giocare.,-1
+171,171. Conto uma história para as crianças antes de dormir.,171. Racconto una storia ai bambini prima di dormire.,1
+172,172. Apago as luzes e relaxo no sofá.,172. Spengo le luci e mi rilasso sul divano.,0
+173,173. Leio algumas páginas de um livro interessante.,173. Leggo qualche pagina di un libro interessante.,-1
+174,174. Vou dormir com um sorriso.,174. Vado a dormire con un sorriso.,0
+175,175. Acordo e começo um novo dia com energia.,175. Mi sveglio e inizio una nuova giornata con energia.,0
+176,176. Preparo o café da manhã e tomo um café.,176. Preparo la colazione e bevo un caffè.,0
+177,177. Saio para fazer uma caminhada matinal.,177. Esco a fare una passeggiata mattutina.,0
+178,178. Cumprimento os vizinhos e caminho pelo bairro.,178. Saluto i vicini e cammino nel quartiere.,-1
+179,179. Visito uma loja local e compro pão.,179. Visito un negozio locale e compro del pane.,-1
+180,180. Volto para casa e arrumo a cozinha.,180. Torno a casa e sistemo la cucina.,0
+181,181. Me dedico a um hobby criativo à tarde.,181. Mi dedico a un hobby creativo nel pomeriggio.,0
+182,182. Escrevo uma carta para um amigo distante.,182. Scrivo una lettera a un amico lontano.,0
+183,183. Leio uma revista de viagens e sonho com novas destinações.,183. Leggo una rivista di viaggi e sogno nuove destinazioni.,1
+184,184. Preparo um jantar especial para a família.,184. Preparo una cena speciale per la famiglia.,0
+185,185. Jantamos juntos e brindamos à saúde.,185. Mangiamo insieme e brindiamo alla salute.,0
+186,186. Olhamos as estrelas da janela do quarto.,186. Guardiamo le stelle dalla finestra della camera.,0
+187,187. Conto anedotas engraçadas e rimos muito.,187. Racconto aneddoti divertenti e ridiamo molto.,0
+188,188. Faço uma caminhada noturna pelo bairro.,188. Faccio una passeggiata serale nel quartiere.,-1
+189,189. Volto para casa e me preparo para dormir.,189. Torno a casa e mi preparo per dormire.,0
+190,190. Leio algumas páginas de um romance policial.,190. Leggo qualche pagina di un romanzo giallo.,0
+191,191. Apago a luz e fecho os olhos.,191. Spengo la luce e chiudo gli occhi.,1
+192,192. Adormeço pensando em dias felizes.,192. Mi addormento pensando a giorni felici.,0
+193,193. Acordo com o canto dos pássaros.,193. Mi sveglio con il canto degli uccelli.,0
+194,194. Preparo o café da manhã e tomo um suco de fruta.,194. Preparo la colazione e bevo un succo di frutta.,0
+195,195. Saio para uma corrida no parque próximo.,195. Esco per una corsa nel parco vicino.,1
+196,196. Volto para casa e faço alongamento.,196. Torno a casa e faccio stretching.,0
+197,197. Leio um livro enquanto tomo um chá.,197. Leggo un libro mentre bevo una tisana.,0
+198,198. Preparo o almoço para a família.,198. Preparo il pranzo per la famiglia.,0
+199,199. Passamos a tarde juntos brincando.,199. Passiamo il pomeriggio insieme a giocare.,0
+200,"200. À noite, vamos dormir tranquilos e felizes.","200. La sera, andiamo a dormire sereni e felici.",0
+201,"201. A menina veste um vestido vermelho, um colar elegante e caminha com os sapatos novos no parque.","201. La bambina indossa un vestito rosso, una collana elegante e cammina con le scarpe nuove nel parco.  ",1
+202,202. O professor explica a lição enquanto os alunos escutam atentamente e escrevem no quadro.,202. Il professore spiega la lezione mentre gli studenti ascoltano attentamente e scrivono sulla lavagna.  ,0
+203,"203. Meus amigos estão alegres e falam sobre esportes, férias e a viagem para a montanha.","203. I miei amici sono allegri e parlano di sport, vacanze e del viaggio in montagna.  ",0
+204,"204. Na cozinha há a geladeira, a mesa posta com pratos, copos e uma sopa quente.","204. In cucina ci sono il frigorifero, la tavola apparecchiata con piatti, bicchieri e una zuppa calda.  ",0
+205,"205. Vamos ao museu, depois ao cinema e por fim jantamos no restaurante em frente à fonte.","205. Andiamo al museo, poi al cinema e infine ceniamo nel ristorante davanti alla fontana.  ",0
+206,206. Na próxima segunda-feira encontrarei o médico no hospital perto do supermercado.,206. Lunedì prossimo incontrerò il medico nell’ospedale vicino al supermercato.  ,0
+207,"207. O cachorro corre no jardim, pula no banco e late feliz para a galinha.","207. Il cane corre nel giardino, salta sulla panchina e abbaia felice alla gallina.  ",0
+208,"208. Hoje está ensolarado e o céu está limpo, mas amanhã estará nublado e talvez chova.","208. Oggi c’è il sole e il cielo è sereno, ma domani sarà nuvoloso e forse pioverà.  ",0
+209,"209. Paolo é forte, inteligente e generoso, enquanto Marco é sensível(leva tudo a mal), nervoso e desatento.","209. Paolo è forte, intelligente e generoso, mentre Marco è permaloso, nervoso e disattento.  ",0
+210,"210. Sobre a mesa havia uma maçã, uma laranja, geleia de morango e pão fresco.","210. Sul tavolo c’erano una mela, un’arancia, marmellata di fragole e pane fresco.  ",0
+211,"211. Estou com fome, com frio e um pouco cansado após uma longa caminhada à beira do mar.","211. Ho fame, ho freddo e sono un po’ stanco dopo una lunga passeggiata al mare.  ",0
+212,"212. O carro está estacionado ao lado da escola, sob a palmeira perto da biblioteca.","212. La macchina è parcheggiata accanto alla scuola, sotto la palma vicino alla biblioteca.  ",0
+213,"213. Marta acorda, se veste com uma camiseta azul e se prepara para ir ao escritório.","213. Marta si sveglia, si veste con una maglietta blu e si prepara per andare in ufficio.  ",0
+214,214. As crianças jogam futebol com entusiasmo enquanto os pais as observam da varanda.,214. I bambini giocano a calcio con entusiasmo mentre i genitori li osservano dal balcone.  ,0
+215,"215. Na sala de estar há um sofá confortável, uma luminária moderna e a televisão ligada.","215. Nel soggiorno ci sono un divano comodo, una lampada moderna e la televisione accesa.  ",0
+216,"216. Durante o inverno usamos casaco, cachecol, luvas e botas quentes.","216. Durante l’inverno indossiamo cappotto, sciarpa, guanti e stivali caldi.  ",0
+217,217. O turista pede indicações para a estação ferroviária e passa em frente à prefeitura.,217. Il turista chiede indicazioni per la stazione ferroviaria e passa davanti al municipio.  ,0
+218,"218. O trem parte às oito, chega ao centro histórico e para perto da catedral.","218. Il treno parte alle otto, arriva al centro storico e si ferma vicino alla cattedrale.  ",0
+219,"219. A biblioteca está cheia de livros interessantes, prateleiras altas e uma escrivaninha elegante.","219. La biblioteca è piena di libri interessanti, mensole alte e una scrivania elegante.  ",0
+220,"220. Após o almoço, o garçom traz a sobremesa, um copo de suco e um café.","220. Dopo il pranzo, il cameriere porta il dessert, un bicchiere di succo e un caffè.  ",1
+221,"221. Minha irmã ama natação, ginástica e vai frequentemente à piscina com os amigos.","221. Mia sorella ama il nuoto, la ginnastica e va spesso in piscina con gli amici.  ",0
+222,"222. Estou usando calças largas, suéter verde e sapatos elegantes para o aniversário.","222. Indosso pantaloni larghi, maglione verde e scarpe eleganti per il compleanno.  ",0
+223,"223. No mercado vendem-se tomates, abobrinhas, queijos, pão e mel natural.","223. Al mercato si vendono pomodori, zucchine, formaggi, pane e miele naturale.  ",0
+224,"224. O arquiteto trabalha em seu estúdio, desenha edifícios modernos e projetos originais.","224. L’architetto lavora nel suo studio, disegna edifici moderni e progetti originali.  ",0
+225,"225. A garota é tímida, mas muito curiosa, ama ler e escrever histórias profundas.","225. La ragazza è timida, ma molto curiosa, ama leggere e scrivere storie profonde.  ",0
+226,"226. O avô é idoso, sábio e conta lembranças do campo e da guerra.","226. Il nonno è anziano, saggio e racconta ricordi della campagna e della guerra.  ",1
+227,"227. No museu há estátuas antigas, pinturas famosas e uma exposição de fotografia.","227. Nel museo ci sono statue antiche, dipinti famosi e una mostra di fotografia.  ",1
+228,"228. O tempo está variável: esta manhã chovia, agora faz sol e depois vai nevar.","228. Il tempo è variabile: stamattina pioveva, adesso c’è il sole e poi nevicherà.  ",1
+229,229. A fonte no centro da praça está cheia de turistas com câmeras fotográficas.,229. La fontana al centro della piazza è affollata di turisti con macchine fotografiche.  ,0
+230,"230. A pia está suja, a cozinha está cheia de gente e alguém deixou a faca fora do lugar.","230. Il lavandino è sporco, la cucina è affollata e qualcuno ha lasciato il coltello fuori posto.",0
+231,231. O menino constrói uma torre com blocos coloridos e sorri.,231. Il bambino costruisce una torre con i blocchi colorati e sorride.  ,0
+232,"232. A mãe prepara uma salada fresca, corta os legumes e despeja o tempero.","232. La mamma prepara un’insalata fresca, taglia le verdure e versa il condimento.  ",0
+233,233. À noite olhamos as estrelas da varanda e escutamos música suave.,233. La sera guardiamo le stelle dal balcone e ascoltiamo la musica soft.  ,0
+234,234. À tarde passeamos ao longo do rio e tomamos um sorvete.,234. Nel pomeriggio passeggiamo lungo il fiume e mangiamo un gelato.  ,-1
+235,"235. Os garotos tocam violão, cantam músicas italianas e dançam.","235. I ragazzi suonano la chitarra, cantano canzoni italiane e ballano.  ",0
+236,236. O gato dorme na poltrona enquanto chove lá fora.,236. Il gatto dorme sulla poltrona mentre fuori piove.  ,0
+237,"237. A camisa está branca, passada e pronta para a reunião de amanhã.","237. La camicia è bianca, stirata e pronta per la riunione di domani.  ",0
+238,"238. No pátio há uma bicicleta, um balanço e um banco de madeira.","238. Nel cortile ci sono una bicicletta, un’altalena e una panchina di legno.  ",1
+239,"239. Comprei uma jaqueta nova, um chapéu elegante e uma gravata vermelha.","239. Ho comprato una giacca nuova, un cappello elegante e una cravatta rossa.  ",0
+240,240. Durante a aula de arte pintamos paisagens e formas abstratas.,240. Durante la lezione di arte dipingiamo paesaggi e forme astratte.  ,0
+241,"241. O menino come uma maçã, bebe suco e ri com o avô.","241. Il bambino mangia una mela, beve succo e ride con il nonno.  ",0
+242,242. No domingo iremos à montanha fazer um piquenique e fotografar a natureza.,242. Domenica andremo in montagna per fare un picnic e fotografare la natura.  ,0
+243,"243. Os jovens são alegres, faladores e sempre cheios de energia.","243. I giovani sono allegri, chiacchieroni e sempre pieni di energia.  ",0
+244,"244. O filme é interessante, bem feito e com atores famosos.","244. Il film è interessante, ben fatto e con attori famosi.  ",0
+245,"245. Hoje me sinto feliz, curioso e pronto para aprender novas palavras.","245. Oggi mi sento felice, curioso e pronto ad imparare nuove parole.  ",0
+246,"246. O tempo está bom, o sol brilha e o ar está fresco.","246. Il tempo è sereno, il sole brilla e l’aria è fresca.  ",0
+247,"247. Na sala há almofadas coloridas, uma mesa redonda e um tapete macio.","247. Nel salotto ci sono cuscini colorati, una tavola rotonda e un tappeto morbido.  ",0
+248,"248. Na carteira havia livros, cadernos, canetas e uma garrafa de água.","248. Sul banco c’erano libri, quaderni, penne e una bottiglia d’acqua.  ",0
+249,"249. A garota usa uma saia longa, um colar dourado e óculos de sol.","249. La ragazza indossa una gonna lunga, una collana dorata e occhiali da sole.  ",-1
+250,"250. O professor é calmo, inteligente e explica com grande clareza.","250. Il professore è calmo, intelligente e spiega con grande chiarezza.  ",0
+251,"251. Visitamos(passado) a catedral, o museu e passeamos pelo centro histórico.","251. Abbiamo visitato la cattedrale, il museo e passeggiato nel centro storico.  ",0
+252,"252. As crianças desenham animais, flores e árvores usando lápis de cor.","252. I bambini disegnano animali, fiori e alberi usando pastelli colorati.  ",0
+253,"253. O cachorro brinca com a bola, pula e corre no gramado.","253. Il cane gioca con la palla, salta e corre nel prato.  ",0
+254,"254. No café da manhã comemos pão, geleia, ovos e tomamos café.","254. A colazione mangiamo pane, marmellata, uova e beviamo caffè.  ",0
+255,"255. O supermercado está cheio: há mães, crianças e pessoas idosas.","255. Il supermercato è affollato: ci sono mamme, bambini e persone anziane.  ",0
+256,"256. O ar está úmido, o céu está cinza e a chuva está chegando.","256. L’aria è umida, il cielo è grigio e arriva la pioggia.  ",1
+257,"257. No restaurante servem pizza, massa, sobremesas e vinho tinto.","257. Nel ristorante si serve pizza, pasta, dolci e vino rosso.  ",0
+258,"258. O mar está azul, calmo e veem-se barcos ao longe.","258. Il mare è blu, calmo e si vedono le barche lontane.  ",1
+259,259. A fonte em frente à igreja está iluminada e cercada de flores.,259. La fontana davanti alla chiesa è luminosa e circondata da fiori.  ,0
+260,"260. Fizemos um passeio de barco, visitamos as ilhas e nadamos no mar.","260. Abbiamo fatto una gita in barca, visitato le isole e nuotato nel mare.  ",0
+261,"261. O menino escreve seu próprio nome, colore uma casa e sorri.","261. Il bambino scrive il proprio nome, colora una casa e sorride.  ",0
+262,"262. Estou usando botas, cachecol e casaco para me proteger do frio.","262. Indosso stivali, sciarpa e cappotto per proteggermi dal freddo.  ",0
+263,"263. Os garotos escutam música rock, conversam e riem juntos.","263. I ragazzi ascoltano musica rock, parlano e ridono insieme.  ",0
+264,"264. Na cozinha há cheiro de pão fresco, café e biscoitos.","264. In cucina c’è odore di pane fresco, caffè e biscotti.  ",0
+265,"265. A mãe lava os pratos, limpa a mesa e prepara o almoço.","265. La mamma lava i piatti, pulisce il tavolo e prepara il pranzo.  ",-1
+266,266. O gato sobe na árvore e olha os pássaros.,266. Il gatto si arrampica sull’albero e guarda gli uccelli.  ,0
+267,"267. Os alunos entram na sala, abrem os livros e começam a aula.","267. Gli studenti entrano in aula, aprono i libri e iniziano la lezione.  ",1
+268,"268. Na primavera florescem as flores, as árvores se colorem e o ar é perfumado.","268. In primavera sbocciano i fiori, gli alberi si colorano e l’aria è profumata.  ",0
+269,"269. O garçom traz duas pizzas, uma salada e água mineral.","269. Il cameriere porta due pizze, un’insalata e dell’acqua minerale.  ",0
+270,"270. Visitamos(passado) um castelo antigo, caminhamos entre as ruínas e fotografamos a paisagem.","270. Abbiamo visitato un castello antico, camminato tra le rovine e fotografato il paesaggio.  ",0
+271,"271. Os pais leem o jornal, tomam chá e conversam com tranquilidade.","271. I genitori leggono il giornale, bevono tè e chiacchierano con tranquillità.  ",0
+272,"272. O trem chega pontualmente, as portas se abrem e os passageiros descem.","272. Il treno arriva puntuale, le porte si aprono e i passeggeri scendono.  ",0
+273,"273. Comprei frutas frescas, legumes orgânicos e pão integral.","273. Ho comprato frutta fresca, verdura biologica e pane integrale.  ",0
+274,274. O menino assiste a um desenho animado barulhento e ri alto.,274. Il bambino guarda un cartone animato rumoroso e ride a voce alta.  ,0
+275,"275. A garota ouve música, lê um romance e escreve no diário.","275. La ragazza ascolta la musica, legge un romanzo e scrive nel diario.  ",0
+276,"276. O céu está nublado, venta e parece que vai nevar.","276. Il cielo è nuvoloso, tira vento e sembra che stia per nevicare.  ",0
+277,"277. As crianças jogam bola, correm e gritam com entusiasmo.","277. I bambini giocano a pallone, corrono e gridano con entusiasmo.  ",0
+278,"278. Estou com fome, mas tenho apenas uma maçã e um pouco de pão.","278. Ho fame, ma ho solo una mela e un po’ di pane.  ",0
+279,"279. Fizemos exercícios de gramática, conjugamos verbos e lemos um texto.","279. Abbiamo fatto esercizi di grammatica, coniugato verbi e letto un testo.  ",-1
+280,"280. A professora ensina história, mostra mapas e conta eventos importantes.","280. La maestra insegna storia, mostra mappe e racconta eventi importanti.  ",0
+281,"281. A casa está limpa, arrumada e cheira a lavanda.","281. La casa è pulita, ordinata e profuma di lavanda.  ",0
+282,"282. Os garotos preparam a mala para a viagem: roupas, livros e uma câmera.","282. I ragazzi preparano la valigia per il viaggio: vestiti, libri e una fotocamera.  ",0
+283,283. No cinema há silêncio enquanto o filme começa.,283. Nel cinema c’è silenzio mentre comincia il film.  ,0
+284,284. O avô passeia lentamente no jardim e cumprimenta os vizinhos.,284. Il nonno passeggia lentamente nel giardino e saluta i vicini.  ,1
+285,"285. (passado)Pegamos o ônibus, atravessamos o centro e visitamos um mercado.","285. Abbiamo preso l’autobus, attraversato il centro e visitato un mercato.  ",0
+286,"286. O rapaz usa sapatos novos, jeans e uma camiseta esportiva.","286. Il ragazzo indossa scarpe nuove, jeans e una maglietta sportiva.  ",0
+287,"287. Hoje estudamos italiano, revisamos o vocabulário e fazemos exercícios.","287. Oggi studiamo italiano, ripassiamo il vocabolario e facciamo esercizi.  ",0
+288,"288. Sobre a mesa há frutas, queijo e uma garrafa de vinho.","288. Sul tavolo ci sono frutta, formaggio e una bottiglia di vino.  ",0
+289,289. A professora confere a lista de alunos e distribui as (foto)cópias.,289. La professoressa controlla la lista degli studenti e distribuisce le fotocopie.,0
+290,290. A menina chora porque perdeu seu brinquedo favorito.,290. La bambina piange perché ha perso il suo giocattolo preferito.  ,0
+291,"291. O supermercado está aberto e vende frutas, verduras e pão fresco.","291. Il supermercato è aperto e vende frutta, verdura e pane fresco.  ",0
+292,292. O trem está atrasado por causa da chuva.,292. Il treno è in ritardo a causa della pioggia.  ,0
+293,293. Os garotos jogam cartas na mesa da cozinha.,293. I ragazzi giocano a carte sul tavolo della cucina.  ,1
+294,"294. No parque há balanços, escorregadores e areia para as crianças.","294. Nel parco ci sono altalene, scivoli e sabbia per i bambini.  ",0
+295,295. Marta escreve um poema em seu diário pessoal.,295. Marta scrive una poesia nel suo diario personale.  ,0
+296,296. O professor lê um livro interessante e toma notas.,296. Il professore legge un libro interessante e prende appunti.  ,0
+297,297. A casa no campo tem um jardim florido e uma varanda espaçosa.,297. La casa in campagna ha un giardino fiorito e un portico spazioso.  ,0
+298,298. O cachorro late quando vê o carteiro chegar.,298. Il cane abbaia quando vede il postino arrivare.  ,0
+299,299. (Passado)Tomamos café no bar e conversamos sobre o fim de semana.,299. Abbiamo preso il caffè al bar e parlato del fine settimana.  ,0
+300,"300. À tarde, passamos tempo com a família em frente à televisão.",300. Il pomeriggio trascorriamo tempo con la famiglia davanti alla televisione.  ,0
+301,301. A criança sorri quando vê a mãe entrar com os biscoitos.,301. Il bambino sorride quando vede la mamma entrare con i biscotti.  ,0
+302,302. A moça recebe uma carta especial do seu amigo na França.,302. La ragazza riceve una lettera speciale dal suo amico in Francia.  ,-1
+303,"303. No mercado encontram-se queijos locais, mel e verduras frescas.","303. Al mercato si trovano formaggi locali, miele e verdure fresche.  ",1
+304,304. Os turistas visitam a catedral e fotografam a arquitetura histórica.,304. I turisti visitano la cattedrale e fotografano l’architettura storica.  ,0
+305,305. Depois do jantar assistimos a um filme divertido e tomamos sorvete.,305. Dopo cena guardiamo un film divertente e mangiamo il gelato.  ,0
+306,306. O pai joga futebol com os filhos no jardim.,306. Il papà gioca a calcio con i figli nel giardino.  ,1
+307,307. A fonte da praça é cercada por flores coloridas.,307. La fontana della piazza è circondata da fiori colorati.  ,0
+308,308. O gato salta sobre a mesa e observa curiosamente os pratos.,308. Il gatto salta sul tavolo e osserva curiosamente i piatti.  ,1
+309,309. A menina lê um conto de fadas antes de ir dormir.,309. La bambina legge una fiaba prima di andare a dormire.  ,0
+310,310. A sala de jantar é iluminada por uma luminária elegante.,310. La sala da pranzo è illuminata da una lampada elegante.  ,0
+311,311. As crianças fazem um bolo com a mãe e decoram com açúcar.,311. I bambini fanno una torta con la mamma e decorano con zucchero.  ,0
+312,312. O céu está cinza e cai uma chuva fina.,312. Il cielo è grigio e cade una pioggia sottile.  ,0
+313,313. Caminhamos por horas ao longo do lago tranquilo.,313. Abbiamo camminato per ore lungo il lago tranquillo.  ,1
+314,314. Marta e Luca se encontram no bar para um cappuccino.,314. Marta e Luca si incontrano al bar per un cappuccino.  ,-1
+315,315. As janelas estão abertas e se ouve o canto dos pássaros.,315. Le finestre sono aperte e si sente il canto degli uccelli.  ,0
+316,316. O avô conta uma história emocionante da sua juventude.,316. Il nonno racconta una storia emozionante della sua giovinezza.  ,0
+317,317. A criança se veste de pirata para a festa.,317. Il bambino si veste da pirata per la festa.  ,1
+318,"318. O almoço é composto de macarrão com molho, salada e frutas.","318. Il pranzo è composto da pasta al sugo, insalata e frutta.  ",0
+319,319. Os rapazes estudam juntos na biblioteca depois da escola.,319. I ragazzi studiano insieme in biblioteca dopo scuola.  ,0
+320,320. Na sala de estar há uma poltrona vermelha e um tapete cinza.,320. Nel soggiorno ci sono una poltrona rossa e un tappeto grigio.  ,0
+321,321. O trem parte da plataforma três com destino a Nápoles.,321. Il treno parte dal binario tre con destinazione Napoli.  ,0
+322,322. A mãe compra um maço de flores no mercado.,322. La mamma compra un mazzo di fiori al mercato.  ,0
+323,"323. As crianças tomam café da manhã com cereais, leite e bananas.","323. I bambini fanno colazione con cereali, latte e banane.  ",-1
+324,324. A fonte central é um espetáculo de luzes e sons.,324. La fontana centrale è uno spettacolo di luci e suoni.  ,0
+325,325. O pai lê o jornal e toma café.,325. Il papà legge il giornale e beve il caffè.  ,0
+326,326. A mãe cozinha o jantar enquanto as crianças põem a mesa.,326. La mamma cucina la cena mentre i bambini apparecchiano la tavola.  ,0
+327,327. O gato se esconde debaixo da cama quando ouve barulhos fortes.,327. Il gatto si nasconde sotto il letto quando sente rumori forti.  ,0
+328,328. O professor escreve no quadro e os alunos copiam no caderno.,328. Il professore scrive alla lavagna e gli studenti copiano sul quaderno.  ,0
+329,329. A moça se maquia para sair com as amigas.,329. La ragazza si trucca per uscire con le amiche.  ,1
+330,330. A criança colore um desenho com canetinhas.,330. Il bambino colora un disegno con i pennarelli.  ,0
+331,331. O romancista observa o pôr do sol pela janela e escreve com paixão.,331. Il romanziere osserva il tramonto dalla finestra e scrive con passione.,-1
+332,"332. (passado)Limpamos a cozinha, lavamos a louça e arrumamos a mesa (tirar as coisas da mesa).","332. Abbiamo pulito la cucina, lavato i piatti e messo in ordine la tavola.  ",0
+333,"333. No gramado há margaridas, violetas e um coelhinho.","333. Sul prato ci sono margherite, viole e un piccolo coniglio.  ",0
+334,334. No domingo iremos ao museu e visitaremos a exposição de arte moderna.,334. Domenica andremo al museo e visiteremo la mostra di arte moderna.  ,0
+335,335. Eu visto a camiseta azul e calças confortáveis para ir ao parque.,335. Indosso la maglietta blu e i pantaloni comodi per andare al parco.  ,0
+336,"336. Os pais são atenciosos(!), acompanham os filhos à escola e os ajudam com as tarefas.","336. I genitori sono premurosi, accompagnano i figli a scuola e li aiutano con i compiti.  ",-2
+337,"337. No outono as folhas caem, o vento sopra e o céu se encobre.","337. In autunno le foglie cadono, il vento soffia e il cielo si copre.  ",0
+338,"338. Comprei uma caixa de biscoitos, um suco de laranja e leite.","338. Ho comprato una scatola di biscotti, un succo d’arancia e del latte.  ",1
+339,339. Os avós contam histórias antigas em frente à lareira acesa.,339. I nonni raccontano storie antiche davanti al camino acceso.  ,0
+340,"340. No banheiro há um espelho, uma toalha e sabonete líquido.","340. Nel bagno ci sono uno specchio, un asciugamano e il sapone liquido.  ",0
+341,"341. Durante o passeio vimos um castelo, um rio e uma cachoeira.","341. Durante la gita abbiamo visto un castello, un fiume e una cascata.  ",1
+342,342. A menina canta uma canção doce enquanto desenha.,342. La bambina canta una canzone dolce mentre disegna.  ,0
+343,"343. O jardim está cheio de flores, árvores e borboletas.","343. Il giardino è pieno di fiori, alberi e farfalle.  ",1
+344,"344. Os turistas tiram fotos da fonte, dos palácios e das estátuas.","344. I turisti scattano foto alla fontana, ai palazzi e alle statue.  ",0
+345,"345. O professor corrige as tarefas, explica a lição e distribui as canetas.","345. L’insegnante corregge i compiti, spiega la lezione e distribuisce le penne.  ",0
+346,"346. O ar está fresco, o céu está limpo e os pássaros cantam.","346. L’aria è fresca, il cielo è limpido e gli uccelli cantano.  ",0
+347,"347. (Passado)Comemos macarrão ao pesto, legumes grelhados e uma fatia de bolo.","347. Abbiamo mangiato pasta al pesto, verdure grigliate e una fetta di torta.  ",0
+348,"348. O café está quente, perfumado e servido com biscoitos.","348. Il caffè è caldo, profumato e servito con biscotti.  ",0
+349,"349. A moça está calma, lê um livro e sorri na janela.","349. La ragazza è calma, legge un libro e sorride alla finestra.  ",0
+350,"350. O temporal chega: trovões, relâmpagos e chuva forte.","350. Il temporale arriva: tuoni, lampi e pioggia forte.  ",0
+351,"351. As crianças pintam com aquarela, cores vivas e muito entusiasmo.","351. I bambini dipingono con acquerelli, colori vivaci e grande entusiasmo.  ",1
+352,"352. A cidade está viva: música nos bares, gente nas ruas e luzes coloridas.","352. La città è viva: musica nei bar, gente per le strade e luci colorate.  ",0
+353,353. No sábado farei uma caminhada na montanha com os amigos.,353. Sabato farò una passeggiata in montagna con gli amici.  ,0
+354,354. A pizza é assada no forno a lenha e é muito saborosa.,354. La pizza è cotta nel forno a legna ed è molto gustosa.  ,0
+355,"355. O suéter vermelho é quente, macio e perfeito para o inverno.","355. Il maglione rosso è caldo, morbido e perfetto per l’inverno.  ",1
+356,"356. Na escola estudamos ciências, matemática e gramática italiana.","356. A scuola studiamo scienze, matematica e grammatica italiana.  ",1
+357,"357. No jardim há uma fonte, bancos e árvores altas.","357. Nel giardino ci sono una fontana, panchine e alberi alti.  ",0
+358,"358. A mãe prepara o almoço com amor: risoto, carne e verduras.","358. La mamma prepara il pranzo con amore: risotto, carne e verdure.  ",0
+359,359. O trem rápido liga Milão a Roma em poucas horas.,359. Il treno veloce collega Milano a Roma in poche ore.  ,1
+360,"360. No supermercado encontrei mel, azeite de oliva e macarrão integral.","360. Al supermercato ho trovato miele, olio d’oliva e pasta integrale.  ",1
+361,361. O despertador toca cedo e eu me levanto para tomar café da manhã.,361. La sveglia suona presto e mi alzo per fare colazione.  ,1
+362,"362. O hotel tem quartos espaçosos, equipe gentil e uma vista maravilhosa.","362. L’albergo ha camere spaziose, personale gentile e una vista meravigliosa.  ",-1
+363,"363. A janela dá para o mar, se vê o horizonte e os barcos distantes.","363. La finestra dà sul mare, si vede l’orizzonte e le barche lontane.  ",1
+364,364. A criança constrói uma torre com os blocos coloridos.,364. Il bambino costruisce una torre con i blocchi colorati.  ,0
+365,365. (Passado)Assistimos a um espetáculo teatral emocionante.,365. Abbiamo assistito a uno spettacolo teatrale emozionante.  ,0
+366,"366. As ruas estão molhadas, as pessoas carregam guarda-chuva e caminham lentamente.","366. Le strade sono bagnate, le persone portano l’ombrello e camminano lentamente.  ",0
+367,"367. O dia é longo, cheio de compromissos e atividades escolares.","367. Il giorno è lungo, pieno di impegni e attività scolastiche.  ",0
+368,368. A tia cozinha raviólis caseiros com molho de tomate.,368. La zia cucina ravioli fatti in casa con salsa di pomodoro.  ,0
+369,"369. O livro fala de aventuras, viagens e personagens fantásticos.","369. Il libro parla di avventure, viaggi e personaggi fantastici.  ",-1
+370,"370. Na geladeira faltam ovos, leite e manteiga.","370. Nel frigorifero mancano le uova, il latte e il burro.  ",0
+371,371. Assistimos a um filme romântico com uma bela trilha sonora.,371. Abbiamo guardato un film romantico con una bella colonna sonora.  ,0
+372,"372. A papelaria vende canetas, cadernos e tintas guache.","372. La cartoleria vende penne, quaderni e colori a tempera.  ",0
+373,"373. O parque é silencioso, tranquilo e perfeito para relaxar.","373. Il parco è silenzioso, tranquillo e perfetto per rilassarsi.  ",1
+374,374. Escrevi uma carta à mão e a enviei pelo correio.,374. Ho scritto una lettera a mano e l’ho spedita per posta.  ,0
+375,"375. As crianças riem, pulam e brincam sob o sol.","375. I bambini ridono, saltano e giocano sotto il sole.  ",1
+376,376. No shopping há lojas de roupas e cafeterias.,376. Nel centro commerciale ci sono negozi di abbigliamento e caffetterie.  ,0
+377,377. O professor faz perguntas e os alunos respondem com interesse.,377. Il professore fa domande e gli studenti rispondono con interesse.  ,0
+378,"378. O almoço está pronto: macarrão, salada e uma fatia de bolo.","378. Il pranzo è pronto: pasta, insalata e una fetta di torta.  ",0
+379,"379. O céu escurece, as nuvens cobrem o sol e começa a chover.","379. Il cielo si scurisce, le nuvole coprono il sole e comincia a piovere.  ",1
+380,380. No sofá há almofadas vermelhas e uma manta macia.,380. Sul divano ci sono cuscini rossi e una coperta morbida.  ,0
+381,381. A moça escreve no diário os pensamentos do dia.,381. La ragazza scrive nel diario i pensieri del giorno.  ,0
+382,382. Fizemos uma caminhada na praia ao pôr do sol.,382. Abbiamo fatto una passeggiata sulla spiaggia al tramonto.  ,0
+383,"383. O aniversário foi comemorado com doces, brincadeiras e música.","383. Il compleanno è stato festeggiato con dolci, giochi e musica.  ",0
+384,384. O caminhão passa rápido em frente à escola.,384. Il camion passa veloce davanti alla scuola.  ,0
+385,385. A criança assiste ao desenho animado e come pipoca.,385. Il bambino guarda il cartone animato e mangia pop-corn.  ,0
+386,"386. No gramado há joaninhas, borboletas e abelhas trabalhadoras.","386. Nel prato ci sono coccinelle, farfalle e api laboriose.  ",0
+387,387. O tempo muda frequentemente na primavera.,387. Il tempo cambia spesso in primavera.  ,0
+388,"388. Compramos frutas, verduras e pão no mercado.","388. Abbiamo comprato frutta, verdura e pane al mercato.  ",0
+389,"389. A moça toma banho, se seca e se penteia.","389. La ragazza fa la doccia, si asciuga e si pettina.  ",0
+390,"390. O mar está calmo, azul e cheio de barcos.","390. Il mare è calmo, blu e pieno di barche.  ",0
+391,391. Os jovens leem um livro e conversam com o professor.,391. I ragazzi leggono un libro e parlano con l’insegnante.  ,0
+392,"392. Na gaveta há tesouras, canetas e borrachas.","392. Nel cassetto ci sono forbici, penne e gomme.  ",0
+393,393. O pai dirige o carro pela estrada da montanha.,393. Il papà guida la macchina lungo la strada di montagna.  ,0
+394,394. O restaurante oferece pratos típicos e um ambiente acolhedor.,394. Il ristorante offre piatti tipici e un ambiente accogliente.  ,0
+395,395. O sol se põe atrás das montanhas.,395. Il sole tramonta dietro le montagne.  ,0
+396,396. A criança brinca com o trenzinho e ri feliz.,396. Il bambino gioca con il trenino e ride felice.  ,0
+397,397. A mãe limpa a casa enquanto ouve rádio.,397. La mamma pulisce la casa mentre ascolta la radio.  ,0
+398,398. Os avós sentam no sofá e assistem à televisão.,398. I nonni siedono sul divano e guardano la televisione.  ,0
+399,"399. O bolo é doce, macio e decorado com frutas frescas.","399. La torta è dolce, soffice e decorata con frutta fresca.  ",0
+400,400. No pátio há um balanço e uma bicicleta.,400. Nel cortile c’è un altalena e una bicicletta.  ,0
+401,401. O cozinheiro mistura os ingredientes na tigela.,401. Il cuoco mescola gli ingredienti nella ciotola.  ,0
+402,402. A paisagem do terraço é fantástica.,402. Il panorama dalla terrazza è fantastico.  ,0
+403,403. O rapaz usa óculos e lê uma história em quadrinhos.,403. Il ragazzo porta gli occhiali e legge un fumetto.  ,0
+404,404. A professora escreve no quadro com giz.,404. La professoressa scrive alla lavagna con il gesso.  ,0
+405,405. No parquinho há escorregadores e balanços.,405. Al parco giochi ci sono scivoli e altalene.  ,0
+406,406. Marta telefona para a amiga para convidá-la para jantar.,406. Marta telefona alla sua amica per invitarla a cena.  ,0
+407,407. A loja fecha às oito da noite.,407. Il negozio chiude alle otto di sera.  ,0
+408,408. O menino lancha no jardim.,408. Il bambino mangia la merenda nel giardino.  ,0
+409,409. Os rapazes pegam o ônibus para ir à escola.,409. I ragazzi prendono l’autobus per andare a scuola.  ,0
+410,410. O livro é interessante e bem escrito.,410. Il libro è interessante e scritto bene.  ,0
+411,411. O cachorro segue o dono pelo caminho.,411. Il cane segue il padrone lungo il sentiero.  ,0
+412,412. O filme começa às nove da noite.,412. Il film comincia alle nove di sera.  ,0
+413,"413. O quarto está arrumado, limpo e iluminado.","413. La camera è ordinata, pulita e luminosa.  ",0
+414,414. O sol aquece o rosto enquanto caminho.,414. Il sole scalda il viso mentre cammino.  ,0
+415,415. A menina desenha com lápis de cor.,415. La bambina disegna con i pastelli colorati.  ,0
+416,416. Os pais leem o jornal enquanto as crianças brincam.,416. I genitori leggono il giornale mentre i bambini giocano.  ,0
+417,417. O outono traz folhas vermelhas e ar fresco.,417. L’autunno porta foglie rosse e aria fresca.  ,0
+418,418. O gato se espreguiça e dorme no tapete.,418. Il gatto si stira e dorme sul tappeto.  ,0
+419,419. Eu escrevi um conto curto para a escola.,419. Ho scritto un racconto breve per la scuola.  ,0
+420,420. O avião decola do aeroporto internacional.,420. L’aereo decolla dal aeroporto internazionale.  ,0
+421,421. Nós fotografamos o pôr do sol na praia.,421. Abbiamo fotografato il tramonto in spiaggia.  ,0
+422,422. A aula terminou e todos voltam para casa.,422. La lezione è finita e tutti tornano a casa.  ,0
+423,423. O vento move as cortinas da janela.,423. Il vento muove le tende della finestra.  ,0
+424,424. O livro está no criado-mudo ao lado da cama.,424. Il libro è sul comodino vicino al letto.  ,0
+425,425. A mamãe prepara o chá e os biscoitos.,425. La mamma prepara il tè e i biscotti.  ,0
+426,426. O papai monta a estante nova.,426. Il papà monta la libreria nuova.  ,0
+427,427. As crianças ouvem música com fones de ouvido.,427. I bambini ascoltano la musica con le cuffie.  ,0
+428,428. O trem passa em frente à estação.,428. Il treno passa davanti alla stazione.  ,0
+429,429. Marta pinta uma paisagem na tela.,429. Marta dipinge un paesaggio su tela.  ,0
+430,430. O menino procura seu brinquedo preferido.,430. Il bambino cerca il suo giocattolo preferito.  ,0
+431,431. O sol brilha no céu azul.,431. Il sole brilla nel cielo azzurro.  ,0
+432,432. A professora corrige as lições de casa.,432. La professoressa corregge i compiti a casa.  ,0
+433,433. O gato sobe no móvel.,433. Il gatto si arrampica sul mobile.  ,0
+434,434. O supermercado vende pão fresco todas as manhãs.,434. Il supermercato vende pane fresco ogni mattina.  ,0
+435,435. O livro fala sobre viagens e aventuras na África.,435. Il libro parla di viaggi e avventure in Africa.  ,0
+436,436. O rapaz arruma seu quarto.,436. Il ragazzo sistema la sua stanza.  ,0
+437,437. As crianças brincam de esconde-esconde.,437. I bambini giocano a nascondino.  ,0
+438,438. O cachorro cava no jardim.,438. Il cane scava nel giardino.  ,0
+439,439. O garçom serve o jantar com um sorriso.,439. Il cameriere serve la cena con un sorriso.  ,0
+440,440. A geladeira está cheia de comida.,440. Il frigorifero è pieno di cibo.  ,0
+441,441. O menino fecha a porta e se senta.,441. Il bambino chiude la porta e si siede.  ,0
+442,442. O professor entra na sala com uma pasta.,442. Il professore entra in aula con una cartella.  ,0
+443,443. A sala está cheia de estudantes.,443. L’aula è piena di studenti.  ,0
+444,444. O bonde corre rápido pelas ruas da cidade.,444. Il tram corre veloce per le strade della città.  ,0
+445,445. O sorvete é de morango e chocolate.,445. Il gelato è alla fragola e al cioccolato.  ,0
+446,446. Marta assiste televisão no sofá.,446. Marta guarda la televisione sul divano.  ,0
+447,447. O céu está estrelado e tranquilo.,447. Il cielo è stellato e tranquillo.  ,0
+448,448. A menina ri e pula de alegria.,448. La bambina ride e salta con gioia.  ,0
+449,449. O papai lê um livro enquanto chove.,449. Il papà legge un libro mentre piove.  ,0
+450,450. As crianças constroem castelos de areia na praia e recolhem conchas.,450. I bambini costruiscono castelli di sabbia sulla spiaggia e raccolgono conchiglie.,0
+451,451. O gato segue a luz do sol e se deita perto da janela.,451. Il gatto segue la luce del sole e si sdraia vicino alla finestra.  ,0
+452,452. As crianças escrevem uma história juntas e a ilustram com desenhos coloridos.,452. I bambini scrivono una storia insieme e la illustrano con disegni colorati.  ,0
+453,"453. O trem atravessa o campo, passando por colinas verdes e vilarejos pitorescos.","453. Il treno attraversa la campagna, passando tra colline verdi e villaggi pittoreschi.  ",0
+454,454. A moça pratica no piano e experimenta uma nova melodia.,454. La ragazza si esercita al pianoforte e prova una nuova melodia.  ,0
+455,"455. O mercado está cheio de gente comprando frutas, verduras e especiarias.","455. Il mercato è affollato di gente che compra frutta, verdura e spezie.  ",0
+456,"456. A família janta junta todas as noites, contando o dia com alegria.","456. La famiglia cena insieme ogni sera, raccontando la giornata con allegria.  ",0
+457,"457. O parquinho está cheio de crianças que correm, riem e se divertem.","457. Il parco giochi è pieno di bambini che corrono, ridono e si divertono.  ",0
+458,458. A professora prepara uma prova de gramática para amanhã.,458. La professoressa prepara una verifica di grammatica per domani.  ,0
+459,459. O menino acorda cedo e veste sua mochila para a escola.,459. Il bambino si sveglia presto e indossa il suo zaino per la scuola.  ,0
+460,460. Na sala há uma estante cheia de romances e contos curtos.,460. Nel soggiorno c’è una libreria piena di romanzi e racconti brevi.  ,0
+461,461. A mamãe estende as roupas na varanda enquanto canta uma canção.,461. La mamma stende i panni sul balcone mentre canta una canzone.  ,0
+462,462. Os rapazes caminham ao longo do rio e fotografam a natureza.,462. I ragazzi camminano lungo il fiume e fotografano la natura.  ,0
+463,463. O sol ilumina o quarto através das cortinas leves.,463. Il sole illumina la stanza attraverso le tende leggere.  ,0
+464,"464. O papai prepara um café da manhã com torradas, geleia e suco de laranja.","464. Il papà prepara una colazione con toast, marmellata e succo d’arancia.  ",0
+465,465. O gato observa os pássaros da janela e mexe o rabo.,465. Il gatto osserva gli uccelli dal davanzale e muove la coda.  ,0
+466,466. Os estudantes estudam para o exame final com grande concentração.,466. Gli studenti studiano per l’esame finale con grande concentrazione.  ,0
+467,"467. No jardim florescem tulipas, rosas e girassóis.","467. Nel giardino sbocciano tulipani, rose e girasoli.  ",0
+468,468. O vovô conserta a bicicleta do neto com paciência.,468. Il nonno aggiusta la bicicletta del nipote con pazienza.  ,0
+469,469. A menina escreve uma carta para sua amiga na montanha.,469. La bambina scrive una lettera alla sua amica in montagna.  ,0
+470,470. O filme de ação está cheio de reviravoltas e efeitos especiais.,470. Il film d’azione è pieno di colpi di scena e effetti speciali.  ,0
+471,"471. O lanche está pronto: pão, creme de avelã e suco de fruta.","471. La merenda è pronta: pane, crema di nocciole e succo di frutta.  ",0
+472,472. As crianças leem contos de fadas debaixo das cobertas antes de dormir.,472. I bambini leggono fiabe sotto le coperte prima di dormire.  ,0
+473,473. O lago reflete as montanhas e as árvores ao redor.,473. Il lago riflette le montagne e gli alberi circostanti.  ,0
+474,474. A mamãe compra o detergente e os produtos de limpeza.,474. La mamma compra il detersivo e i prodotti per la pulizia.  ,0
+475,475. O rapaz sobe na bicicleta e pedala até o parque.,475. Il ragazzo sale sulla bici e pedala fino al parco.  ,0
+476,476. O sorvete derrete ao sol e pinga no cone.,476. Il gelato si scioglie al sole e gocciola sul cono.  ,0
+477,477. O professor prepara os boletins para o fim do trimestre.,477. L’insegnante prepara le pagelle per il fine trimestre.  ,0
+478,478. As crianças fazem bonecos de neve no jardim nevado.,478. I bambini creano pupazzi di neve nel giardino innevato.  ,0
+479,479. A biblioteca tem novos livros disponíveis para empréstimo.,479. La biblioteca ha nuovi libri disponibili per il prestito.  ,0
+480,480. A moça arruma o quarto e organiza as roupas.,480. La ragazza sistema la sua stanza e mette in ordine i vestiti.  ,0
+481,481. O café está pronto e o aroma enche a cozinha.,481. Il caffè è pronto e l’aroma riempie la cucina.  ,0
+482,482. O papai leva o cachorro para passear no bairro.,482. Il papà porta il cane a spasso nel quartiere.  ,0
+483,483. A menina acende uma lanterna e olha para o céu noturno.,483. La bambina accende una lanterna e guarda il cielo notturno.  ,0
+484,484. Os rapazes cantam uma canção durante a viagem de ônibus.,484. I ragazzi cantano una canzone durante il viaggio in autobus.  ,0
+485,"485. O jantar está servido: lasanha, salada e torta de frutas.","485. La cena è servita: lasagne, insalata e crostata di frutta.  ",0
+486,486. O gato brinca com um novelo no tapete.,486. Il gatto gioca con un gomitolo sul tappeto.  ,0
+487,487. A vovó conta uma fábula aos netos antes de dormir.,487. La nonna racconta una favola ai nipoti prima di dormire.  ,0
+488,488. O rapaz veste uma jaqueta e sai para encontrar os amigos.,488. Il ragazzo indossa una giacca e esce per incontrare gli amici.  ,0
+489,"489. A mesa está posta com pratos, copos e talheres coloridos.","489. La tavola è apparecchiata con piatti, bicchieri e posate colorate.  ",0
+490,490. As crianças pulam nas poças depois da chuva.,490. I bambini saltano sulle pozzanghere dopo la pioggia.  ,0
+491,491. O sol nasce lentamente atrás das colinas.,491. Il sole sorge lentamente dietro le colline.  ,0
+492,492. Marta lê uma revista enquanto bebe chá quente.,492. Marta legge una rivista mentre beve il tè caldo.  ,0
+493,493. O professor corrige os erros nos deveres com atenção.,493. Il professore corregge gli errori nei compiti con attenzione.  ,0
+494,494. O menino pinta um arco-íris com tintas guache.,494. Il bambino dipinge un arcobaleno con i colori a tempera.  ,0
+495,495. A escola está fechada para as férias de verão.,495. La scuola è chiusa per le vacanze estive.  ,0
+496,496. O papai planta flores no jardim com o filho.,496. Il papà pianta fiori in giardino con il figlio.  ,0
+497,497. Os rapazes jogam vôlei na praia.,497. I ragazzi giocano a pallavolo sulla spiaggia.  ,0
+498,498. A mamãe assa o pão e o deixa esfriar na mesa.,498. La mamma cuoce il pane e lo lascia raffreddare sul tavolo.  ,0
+499,499. Os avós levam os netos ao parque todo sábado.,499. I nonni portano i nipoti al parco ogni sabato.  ,0
+500,500. A fonte jorra água fresca e relaxante na praça central.,500. La fontana spruzza acqua fresca e rilassante nella piazza centrale.,0
+501,"501. Então, se vocês estiverem prontos, podemos começar a reunião.","501. Allora, se siete pronti, possiamo iniziare con la riunione.",0
+502,502. Ainda há muito caminho a percorrer antes de chegar ao sucesso.,502. C'è ancora molta strada da fare prima di arrivare al successo.,0
+503,503. Onde vocês colocaram as chaves que minha mãe deixou?,503. Dove avete messo le chiavi che mia madre ha lasciato?,0
+504,"504. Mesmo que esteja cansado, você deve terminar o trabalho até esta noite.","504. Anche se sei stanco, devi finire il lavoro entro stasera.",0
+505,505. Preciso de alguém que possa me ouvir sem julgar.,505. Ho bisogno di qualcuno che possa ascoltarmi senza giudicare.,0
+506,506. Esta é uma das muitas experiências que mudaram minha vida.,506. Questa è una delle tante esperienze che mi hanno cambiato la vita.,0
+507,507. Você realmente acredita que ele disse a verdade?,507. Davvero credi che lui abbia detto la verità?,0
+508,508. Ela não quer sair porque está se sentindo mal há alguns dias.,508. Lei non vuole uscire perché si sente male da qualche giorno.,0
+509,509. Eu sei que você não fez nada de errado.,509. Io so che tu non hai fatto niente di sbagliato.,0
+510,"510. Senhor, o senhor quer que eu lhe mostre o caminho para o centro?","510. Signore, vuole che le mostri la strada per il centro?",0
+511,511. Dissemos a todos que a festa foi cancelada.,511. Abbiamo detto a tutti che la festa è stata cancellata.,0
+512,512. Pode me explicar melhor o que você quis dizer com aquela frase?,512. Puoi spiegarmi meglio cosa intendevi con quella frase?,0
+513,"513. Não preciso de nada, obrigado, estou bem assim.","513. Non mi serve niente, grazie, sto bene così.",0
+514,514. Quem moveu os documentos que estavam ali na mesa?,514. Chi ha spostato i documenti che erano lì sul tavolo?,0
+515,"515. Claro, se você precisar de ajuda, posso ir com você.","515. Certo, se hai bisogno di aiuto, posso venire con te.",0
+516,516. É uma situação em que devemos agir com muito cuidado.,516. È una situazione in cui dobbiamo agire con molta attenzione.,0
+517,517. Não há nenhuma razão para nos preocuparmos.,517. Non c'è nessuna ragione per cui dovremmo preoccuparci.,0
+518,"518. Por favor, senhora, acomode-se em nossa sala de espera.","518. Prego, signora, si accomodi pure nella nostra sala d'attesa.",0
+519,"519. Decidimos partir em outro momento, talvez amanhã.","519. Abbiamo deciso di partire in un altro momento, forse domani.",0
+520,520. Quero que você entenda o quanto é importante para mim.,520. Voglio che tu capisca quanto sei importante per me.,0
+521,521. Seu pai me disse que você vai para o exterior.,521. Tuo padre mi ha detto che partirai per l’estero.,0
+522,522. Quantos anos você tem? Eu tenho trinta e cinco.,522. Quanti anni hai? Io ne ho trentacinque.,0
+523,"523. Se não me engano, vocês falaram sobre isso também na semana passada.","523. Se non sbaglio, avete parlato di questo anche la scorsa settimana.",0
+524,"524. Oh, ei, mas olha só quem aparece! Como vai?","524. Oh, ehi, ma guarda chi si vede! Come stai?",0
+525,"525. Não é culpa de ninguém, foi apenas um mal-entendido.","525. Non è colpa di nessuno, è stato solo un malinteso.",0
+526,"526. Eu não posso aceitar uma resposta desse tipo, desculpe.","526. Io non posso accettare una risposta del genere, mi dispiace.",0
+527,"527. Você é sempre tão prestativo, muito obrigado.","527. Tu sei sempre così disponibile, grazie davvero.",0
+528,528. Quer vir conosco ao cinema hoje à noite?,528. Vuoi venire con noi al cinema stasera?,0
+529,529. Devo admitir que essa ideia é realmente interessante.,529. Devo ammettere che questa idea è davvero interessante.,0
+530,530. Ela disse que vai pensar e nos avisar.,530. Lei ha detto che ci penserà e ci farà sapere.,0
+531,"531. Olá, vou lhe apresentar uma certa Paola, ela trabalha conosco.","531. Ciao, ti presento una certa Paola, lavora con noi.",0
+532,532. Por que você não me disse antes que estava na cidade?,532. Perché non mi hai detto prima che eri in città?,0
+533,"533. Se estiver chovendo, é melhor ficar em casa.","533. Se sta piovendo, meglio rimanere a casa.",0
+534,"534. Nunca ouvi nada parecido, é incrível!","534. Non ho mai sentito nulla del genere, è incredibile!",0
+535,535. Conhecemos outras pessoas muito gentis durante a viagem.,535. Abbiamo conosciuto altre persone molto gentili durante il viaggio.,0
+536,"536. Esta é uma decisão que cabe a vocês, não a nós.","536. Questa è una decisione che spetta a voi, non a noi.",0
+537,537. Gostaria de encontrar uma maneira de resolver esta situação.,537. Vorrei trovare un modo per sistemare questa situazione.,0
+538,538. Estamos muito felizes que você tenha vindo nos visitar.,538. Siamo molto felici che tu sia venuto a trovarci.,0
+539,"539. Não é o momento certo, falaremos sobre isso outra hora.","539. Non è il momento giusto, ne parleremo un'altra volta.",0
+540,540. Eu acredito que é importante ouvir todas as opiniões.,540. Io credo che sia importante ascoltare tutte le opinioni.,0
+541,541. Tome cuidado ao atravessar a rua.,541. Stai attento quando attraversi la strada.,0
+542,542. Ele me disse que partiu sem se despedir de ninguém.,542. Lui mi ha detto di essere partito senza salutare nessuno.,0
+543,543. Há algo de errado no que você disse.,543. C'è qualcosa che non va in quello che hai detto.,0
+544,544. Aqui está o documento que você deve assinar até hoje.,544. Ecco il documento che devi firmare entro oggi.,0
+545,"545. Sim, me lembro bem daquele dia, foi especial.","545. Sì, mi ricordo bene quel giorno, è stato speciale.",0
+546,546. Seu filho fez muitos progressos este ano.,546. Vostro figlio ha fatto molti progressi quest’anno.,0
+547,"547. Vamos, não fique assim, tudo vai se resolver!","547. Dai, non fare così, tutto si risolverà!",0
+548,548. O professor nos explicou a lição de forma muito clara.,548. Il professore ci ha spiegato la lezione in modo molto chiaro.,0
+549,549. Esses comportamentos não são aceitáveis nesta escola.,549. Tali comportamenti non sono accettabili in questa scuola.,0
+550,"550. Quando preciso relaxar, fico com minha família.","550. Quando ho bisogno di relax, sto con la mia famiglia.",0
