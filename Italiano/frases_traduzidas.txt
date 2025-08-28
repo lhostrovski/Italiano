@@ -349,7 +349,7 @@
 349. A moça está calma, lê um livro e sorri na janela.
 350. O temporal chega: trovões, relâmpagos e chuva forte.
 351. As crianças pintam com aquarela, cores vivas e grande entusiasmo.
-352. A cidade está viva: música nos bares, gente nas ruas e luzes coloridas.
+352. A cidade está viva: música nos bares, gente pelas ruas e luzes coloridas.
 353. No sábado farei uma caminhada na montanha com os amigos.
 354. A pizza é assada no forno a lenha e é muito saborosa.
 355. O suéter vermelho é quente, macio e perfeito para o inverno.
@@ -398,153 +398,403 @@
 398. Os avós sentam no sofá e assistem à televisão.
 399. O bolo é doce, macio e decorado com frutas frescas.
 400. No pátio há um balanço e uma bicicleta.
-401. O cozinheiro mistura os ingredientes na tigela.
-402. A paisagem do terraço é fantástica.
-403. O rapaz usa óculos e lê uma história em quadrinhos.
-404. A professora escreve no quadro com giz.
-405. No parquinho há escorregadores e balanços.
-406. Marta telefona para a amiga para convidá-la para jantar.
-407. A loja fecha às oito da noite.
-408. O menino lancha no jardim.
-409. Os rapazes pegam o ônibus para ir à escola.
-410. O livro é interessante e bem escrito.
-411. O cachorro segue o dono pelo caminho.
-412. O filme começa às nove da noite.
-413. O quarto está arrumado, limpo e iluminado.
-414. O sol aquece o rosto enquanto caminho.
-415. A menina desenha com lápis de cor.
-416. Os pais leem o jornal enquanto as crianças brincam.
-417. O outono traz folhas vermelhas e ar fresco.
-418. O gato se espreguiça e dorme no tapete.
-419. Eu escrevi um conto curto para a escola.
-420. O avião decola do aeroporto internacional.
-421. Nós fotografamos o pôr do sol na praia.
-422. A aula terminou e todos voltam para casa.
-423. O vento move as cortinas da janela.
-424. O livro está no criado-mudo ao lado da cama.
-425. A mamãe prepara o chá e os biscoitos.
-426. O papai monta a estante nova.
-427. As crianças ouvem música com fones de ouvido.
-428. O trem passa em frente à estação.
-429. Marta pinta uma paisagem na tela.
-430. O menino procura seu brinquedo preferido.
-431. O sol brilha no céu azul.
-432. A professora corrige as lições de casa.
-433. O gato sobe no móvel.
-434. O supermercado vende pão fresco todas as manhãs.
-435. O livro fala sobre viagens e aventuras na África.
-436. O rapaz arruma seu quarto.
-437. As crianças brincam de esconde-esconde.
-438. O cachorro cava no jardim.
-439. O garçom serve o jantar com um sorriso.
-440. A geladeira está cheia de comida.
-441. O menino fecha a porta e se senta.
-442. O professor entra na sala com uma pasta.
-443. A sala está cheia de estudantes.
-444. O bonde corre rápido pelas ruas da cidade.
-445. O sorvete é de morango e chocolate.
-446. Marta assiste televisão no sofá.
-447. O céu está estrelado e tranquilo.
-448. A menina ri e pula de alegria.
-449. O papai lê um livro enquanto chove.
-450. As crianças constroem castelos de areia na praia e recolhem conchas.
-451. O gato segue a luz do sol e se deita perto da janela.
-452. As crianças escrevem uma história juntas e a ilustram com desenhos coloridos.
-453. O trem atravessa o campo, passando por colinas verdes e vilarejos pitorescos.
-454. A moça pratica no piano e experimenta uma nova melodia.
-455. O mercado está cheio de gente comprando frutas, verduras e especiarias.
-456. A família janta junta todas as noites, contando o dia com alegria.
-457. O parquinho está cheio de crianças que correm, riem e se divertem.
-458. A professora prepara uma prova de gramática para amanhã.
-459. O menino acorda cedo e veste sua mochila para a escola.
-460. Na sala há uma estante cheia de romances e contos curtos.
-461. A mamãe estende as roupas na varanda enquanto canta uma canção.
-462. Os rapazes caminham ao longo do rio e fotografam a natureza.
-463. O sol ilumina o quarto através das cortinas leves.
-464. O papai prepara um café da manhã com torradas, geleia e suco de laranja.
-465. O gato observa os pássaros da janela e mexe o rabo.
-466. Os estudantes estudam para o exame final com grande concentração.
-467. No jardim florescem tulipas, rosas e girassóis.
-468. O vovô conserta a bicicleta do neto com paciência.
-469. A menina escreve uma carta para sua amiga na montanha.
-470. O filme de ação está cheio de reviravoltas e efeitos especiais.
-471. O lanche está pronto: pão, creme de avelã e suco de fruta.
-472. As crianças leem contos de fadas debaixo das cobertas antes de dormir.
-473. O lago reflete as montanhas e as árvores ao redor.
-474. A mamãe compra o detergente e os produtos de limpeza.
-475. O rapaz sobe na bicicleta e pedala até o parque.
-476. O sorvete derrete ao sol e pinga no cone.
-477. O professor prepara os boletins para o fim do trimestre.
-478. As crianças fazem bonecos de neve no jardim nevado.
-479. A biblioteca tem novos livros disponíveis para empréstimo.
-480. A moça arruma o quarto e organiza as roupas.
-481. O café está pronto e o aroma enche a cozinha.
-482. O papai leva o cachorro para passear no bairro.
-483. A menina acende uma lanterna e olha para o céu noturno.
-484. Os rapazes cantam uma canção durante a viagem de ônibus.
-485. O jantar está servido: lasanha, salada e torta de frutas.
-486. O gato brinca com um novelo no tapete.
-487. A vovó conta uma fábula aos netos antes de dormir.
-488. O rapaz veste uma jaqueta e sai para encontrar os amigos.
-489. A mesa está posta com pratos, copos e talheres coloridos.
-490. As crianças pulam nas poças depois da chuva.
-491. O sol nasce lentamente atrás das colinas.
-492. Marta lê uma revista enquanto bebe chá quente.
-493. O professor corrige os erros nos deveres com atenção.
-494. O menino pinta um arco-íris com tintas guache.
-495. A escola está fechada para as férias de verão.
-496. O papai planta flores no jardim com o filho.
-497. Os rapazes jogam vôlei na praia.
-498. A mamãe assa o pão e o deixa esfriar na mesa.
-499. Os avós levam os netos ao parque todo sábado.
-500. A fonte jorra água fresca e relaxante na praça central.
-501. Então, se vocês estiverem prontos, podemos começar a reunião.
-502. Ainda há muito caminho a percorrer antes de chegar ao sucesso.
-503. Onde vocês colocaram as chaves que minha mãe deixou?
-504. Mesmo que esteja cansado, você deve terminar o trabalho até esta noite.
-505. Preciso de alguém que possa me ouvir sem julgar.
-506. Esta é uma das muitas experiências que mudaram minha vida.
-507. Você realmente acredita que ele disse a verdade?
-508. Ela não quer sair porque está se sentindo mal há alguns dias.
-509. Eu sei que você não fez nada de errado.
-510. Senhor, o senhor quer que eu lhe mostre o caminho para o centro?
-511. Dissemos a todos que a festa foi cancelada.
-512. Pode me explicar melhor o que você quis dizer com aquela frase?
-513. Não preciso de nada, obrigado, estou bem assim.
-514. Quem moveu os documentos que estavam ali na mesa?
-515. Claro, se você precisar de ajuda, posso ir com você.
-516. É uma situação em que devemos agir com muito cuidado.
-517. Não há nenhuma razão para nos preocuparmos.
-518. Por favor, senhora, acomode-se em nossa sala de espera.
-519. Decidimos partir em outro momento, talvez amanhã.
-520. Quero que você entenda o quanto é importante para mim.
-521. Seu pai me disse que você vai para o exterior.
-522. Quantos anos você tem? Eu tenho trinta e cinco.
-523. Se não me engano, vocês falaram sobre isso também na semana passada.
-524. Oh, ei, mas olha só quem aparece! Como vai?
-525. Não é culpa de ninguém, foi apenas um mal-entendido.
-526. Eu não posso aceitar uma resposta desse tipo, desculpe.
-527. Você é sempre tão prestativo, muito obrigado.
-528. Quer vir conosco ao cinema hoje à noite?
-529. Devo admitir que essa ideia é realmente interessante.
-530. Ela disse que vai pensar e nos avisar.
-531. Olá, vou lhe apresentar uma certa Paola, ela trabalha conosco.
-532. Por que você não me disse antes que estava na cidade?
-533. Se estiver chovendo, é melhor ficar em casa.
-534. Nunca ouvi nada parecido, é incrível!
-535. Conhecemos outras pessoas muito gentis durante a viagem.
-536. Esta é uma decisão que cabe a vocês, não a nós.
-537. Gostaria de encontrar uma maneira de resolver esta situação.
-538. Estamos muito felizes que você tenha vindo nos visitar.
-539. Não é o momento certo, falaremos sobre isso outra hora.
-540. Eu acredito que é importante ouvir todas as opiniões.
-541. Tome cuidado ao atravessar a rua.
-542. Ele me disse que partiu sem se despedir de ninguém.
-543. Há algo de errado no que você disse.
-544. Aqui está o documento que você deve assinar até hoje.
-545. Sim, me lembro bem daquele dia, foi especial.
-546. Seu filho fez muitos progressos este ano.
-547. Vamos, não fique assim, tudo vai se resolver!
-548. O professor nos explicou a lição de forma muito clara.
-549. Esses comportamentos não são aceitáveis nesta escola.
-550. Quando preciso relaxar, fico com minha família.
+401. Em caso de problema grave, será necessário acordar o responsável e esperar que o destino nos seja favorável.
+402. Não deveria importar se decidem prender o ladrão ou aplicar uma multa.
+403. Às vezes basta um detalhe para mudar tudo: um gesto repentino, além disso, pode reconstruir a confiança perdida.
+404. Saber calar quando o sol está para nascer é um ato de respeito.
+405. A instalação elétrica está sob o controle da autoridade local, como no exemplo indicado pelo medidor municipal.
+406. Preciso convencer Marco a acender o fogo, porque o sabor do pão na lareira é impagável.
+407. Acredito que, para vencer, é preciso pagar o preço de deixar para trás o que pode ser previsto.
+408. O serviço oferecido pelo governo consiste em lançar as bases para um novo processo legislativo.
+409. O conceito de tocar a felicidade exige muitas vezes um sacrifício além de toda necessidade.
+410. A ponte de ferro tem uma postura sólida, enquanto o resto do terreno é instável.
+411. Dou-lhe um conselho: preste atenção a cada oportunidade que ele lhe oferece.
+412. O artista soube moldar luz e escuridão em uma obra que parece levar o público a oferecer um favor.
+413. Você não deveria esquecer que cada instrumento pode transformar uma ideia em uma ação capaz de responder a uma necessidade livre.
+414. É importante apresentar o próprio projeto ao menos uma vez por mês, mesmo que só se tenha meio plano pronto.
+415. Às vezes, um pouco de paciência pode matar a ansiedade e permitir que a mente não se preocupe inutilmente.
+416. O autor teve que insistir para publicar seu jogo preferido.
+417. Isto é, justamente, o que devemos buscar: a excelência que leva ao resultado de encantar o público.
+418. Tentar vender ilusões é provocar enganos, mas o poeta loiro, chamado de “o tio loiro”, o faz por desejo.
+419. Apesar de sua idade, o caráter do oficial permanece íntegro.
+420. No quarto andar, ele tinha decidido ter tudo pronto, até mesmo uma surpresa.
+421. Quem sabe se a pedra encontrada pelo militar terá valor histórico.
+422. Enquanto isso, para fazer a conta exata, precisamos solicitar mais dados de várias fontes.
+423. O menino começou a preencher o diário para relatar sua aventura no sul.
+424. Na minha opinião, é correto convidar todos a ficar enquanto for possível.
+425. Não volte atrás, e assim por diante: em particular é preciso tornar-se especialista no comércio.
+426. Aquele rapaz é realmente louco, mas o fruto do trabalho de cada um tem um impacto social.
+427. Não é bom brincar quando alguém tenta quebrar um recorde.
+428. Antes de arrumar, tente jogar fora o que não serve mais.
+429. Ele estava até mesmo a caminho de um lugar de honra, pronto para retomar o discurso.
+430. Basta levantar a voz com aquela mulher para que ela seja considerada hostil.
+431. Devemos manter a calma e acolher a ideia, se você quiser que eu lhe apoie.
+432. Vi o professor sorrir enquanto explicava um tema recente.
+433. O árbitro decidiu marcar uma falta e lançar um aviso ao time industrial.
+434. Ele usava no pescoço uma pequena cruz, capaz de trazer lembranças e acrescentar significados.
+435. Um fio de cabelo caído entre as páginas revelou a origem da carta.
+436. O cavalo está pronto para defender seu território.
+437. Não quero desculpar quem abusou de seu poder, mas é um caso à parte.
+438. Agir em sentido contrário poderia comprometer nosso futuro.
+439. Pude ouvir o presidente pronunciar um discurso que deixou o povo contente.
+440. Este é o último preço baixo disponível em uma sala muito ampla.
+441. Durante a noite, o medo tornou a viagem mais difícil.
+442. Foi necessário deter o vilão antes que fosse tarde demais.
+443. Se surgir outro problema grave, será preciso remediar imediatamente.
+444. O arquiteto soube erguer uma ponte de ferro com grande excelência.
+445. O oficial decidiu prender o ladrão louco que tentava fugir.
+446. Um ato de sacrifício pode transformar o destino de toda uma comunidade.
+447. Quis convencer minha irmã a sorrir mesmo enquanto as coisas estavam difíceis.
+448. Naquela reunião, o autor pôde expor sua ideia precisa.
+449. Gostaria de encantar alguém com o sabor de um doce caseiro.
+450. É importante manter a confiança mesmo nos meses mais difíceis.
+451. O cuidado da alma pode encontrar força na arte e no silêncio.
+452. Gostaria de enviar um convite para conhecer melhor aquele professor alemão.
+453. Com o espírito sereno, podemos enfrentar pelo menos um problema de cada vez.
+454. Foi difícil reunir todos para assistir ao pôr do sol juntos.
+455. Escalar a montanha pode ser perigoso e morrer por um traço de orgulho.
+456. Um amigo cristão me falou de um amor superior que supera toda distância.
+457. O homem fez o mesmo gesto para dar sentido à própria vida.
+458. Saber possuir a verdadeira beleza exige sabedoria.
+459. Preciso reorganizar o quarto e apagar a luz.
+460. É conhecido por todos, mas poucos sabem perceber os detalhes, ou apreciá-los de verdade.
+461. No monte mais alto da região, senti a necessidade de um passo rápido.
+462. Ele tinha um pescoço elegante, parecido com o de um estrangeiro em meio à população local.
+463. Eu não conseguia entender aquele comportamento estranho.
+464. Evite destruir o que ama; ao contrário, proteja-o.
+465. A propósito de viagens, isso pode parecer chato, mas é quase mágico.
+466. Já decidi recusar a oferta porque custa muito caro.
+467. Quer dizer, você quer reduzir a questão a um "aqui e agora"?
+468. O número de participantes era inteiro — ninguém faltava.
+469. O navio conseguiu vencer a tempestade.
+470. Na atualidade, o reino estelar da ciência olha para a próxima estrela.
+471. É importante mostrar logo o que agora se pode fazer.
+472. O futuro não é absoluto; depende das escolhas de cada personagem.
+473. Fiz experiência em uma peça teatral após muito esforço.
+474. O mestre sabe tornar simples até mesmo um conceito complexo.
+475. Podemos criar um sistema de justiça equitativo.
+476. O lábio tremia durante a apresentação na sala de aula.
+477. A disposição das carteiras permanecerá assim durante todo o período.
+478. Prefiro ficar em silêncio até receber uma boa notícia.
+479. O que mais me diverte é viajar para o norte.
+480. É melhor afastar as dúvidas para se tornar mais forte.
+481. Olhando do alto da ponte, admirava a paisagem do nosso amplo rio.
+482. Uma boa comunicação é o que falta a alguns entre nós.
+483. Precisamos avançar com uma ideia bonita que tenha também uma função prática.
+484. Ir ao teatro me permite usar a imaginação.
+485. O debate político não é sempre bom, mas é necessário.
+486. Decidiram abraçar a iniciativa e restaurar o palácio histórico.
+487. Com apenas um dedo, ele indicou o mês de junho no calendário.
+488. Tive que vestir roupas elegantes para criar uma boa relação com os clientes.
+489. Na floresta, o respeito pela natureza é fundamental.
+490. Quero anunciar que minha cor preferida é o preto.
+491. É preciso libertar o irmão do erro.
+492. É incrível existir em harmonia com o que nos rodeia.
+493. Moro no centro, mas amo o campo.
+494. A vila tem um encanto particular, difícil de explicar.
+495. No congresso, discutiu-se construção e como apoiar a arte.
+496. O príncipe viu a multidão explodir em aplausos.
+497. Posso imaginar um mundo onde a matéria e o público convivem.
+498. A verdadeira riqueza é saber publicar e dedicar um pensamento ao que é sagrado.
+499. Encontrei um animal parecido com aquele do meu sonho.
+500. Será necessário vontade e coragem para não temer o desafio.
+501. Vi puxarem uma estátua grega sobre um carro.
+502. Gostaria de cobrir o assunto e rever o relatório.
+503. Em decorrência do contrato, teremos um dever recíproco.
+504. É bastante claro que eles conhecem a realidade dos fatos.
+505. Naquela parede, estava estampado um aviso de crise.
+506. Você deveria parar de ignorar o perigo.
+507. É belo passar o tempo vendo flores aparecerem na primavera.
+508. Um bom professor sabe ensinar a profissão e acompanhar o aluno.
+509. Aquele padre falou em acordo com todos, gerando um ótimo efeito.
+510. Tive a impressão de que era um lugar perigoso.
+511. O gato dormia em cima da cadeira.
+512. Não se deve impor as próprias ideias sem escutar.
+513. É importante tratar cada questão de modo útil para todos.
+514. A dor pode nos fazer receber lições preciosas.
+515. O ator não sabia o que poderia acontecer nos bastidores.
+516. De qualquer forma, mesmo nas dificuldades, a pequena cidade resistia.
+517. Aprendi a tocar violão para me abrir novas possibilidades.
+518. Não se deve impedir ninguém de expressar a própria opinião.
+519. É bom subir a montanha com cada um dos amigos.
+520. Decidi ligar para o Luca para ver se ele queria tomar um café.
+521. O terceiro capítulo fala de uma espécie rara de borboleta de pele delicada.
+522. Um gesto gentil pode impressionar mais do que uma ação normal.
+523. O porto estava pronto para a segurança dos barcos.
+524. Ele permanecia parado para demonstrar coragem contra a corrente.
+525. A imprensa local entrevistou um famoso católico.
+526. Ficarei aqui até o meio-dia para ajudar um cidadão.
+527. Um único golpe de sorte pode valer a pena.
+528. Tenho certeza de que cerca de cem pessoas levantarão o braço.
+529. É necessário voltar antes do pôr do sol.
+530. O céu mostrava o sinal de um pecado antigo.
+531. Finalmente eu podia parar de errar.
+532. Neste mundo, cada animal tem um papel.
+533. Portanto, deixe espaço para a sua imaginação.
+534. Depois de tanto sono, começou a ouvir a voz de um amigo.
+535. Com passo firme, atravessou a sala, sem nem mesmo cumprimentar.
+536. A segurança do local permitia comprar em paz.
+537. Sinto-me vivo quando cruzo o seu olhar.
+538. Tenho bastante tempo livre para ler um título novo.
+539. Nunca esquecerei o primeiro beijo na chuva.
+540. A peça de teatro quer representar o impossível.
+541. Cada pé deixava um juízo na areia.
+542. É preciso esforço para construir uma boa defesa.
+543. Um americano ajudou a estabelecer novas regras.
+544. O risco é menor se você souber indicar o caminho dourado.
+545. Continuo a amar a história do exército medieval.
+546. Uma folha caía, sinal da doença da árvore.
+547. Quero agradecer a todos e dizer apenas "eh... obrigado!".
+548. É bom conservar um lado gentil em cada aspecto do caráter.
+549. O sentimento e a condição eram diferentes do previsto.
+550. Não é saudável fumar perto da guarda do palácio.
+551. Vi um gato pular e segurar a presa na boca.
+552. Adoro cantar enquanto tento reger um coral.
+553. Ver uma criança crescer é uma questão de paciência.
+554. Amo descobrir o produto do meu trabalho.
+555. Gostaria de fazer um convite para não perderem a esperança.
+556. É hora de fechar a porta para qualquer perigo.
+557. Prefiro esperar na minha casa de campo.
+558. E, no entanto, o peso nos ombros permanecia.
+559. Cada soldado merecia o perdão.
+560. Conseguiu realizar o gesto com passo leve.
+561. Ajudar é um dever humano.
+562. Tentou escapar e gritar por ajuda.
+563. O confronto com o adversário o surpreendeu.
+564. Você precisa cerrar os dentes e celebrar a vitória.
+565. Todo problema tem sua solução.
+566. Podemos excluir apenas uma pequena parte da série de eventos.
+567. Um poeta francês usava um chapéu branco.
+568. Vivo em uma área tranquila.
+569. Você deve organizar os livros em ordem.
+570. É bom estender a mão para quebrar o gelo.
+571. Adoro pensar em um assunto que envolva uma grande massa de pessoas.
+572. Ouvi risadas e determinei imediatamente a direção do som.
+573. O diálogo foi civilizado, apesar do tempo ruim.
+574. Continuo a acreditar sem opor resistência.
+575. A fábrica não pode atacar quem quer falar.
+576. Saber distinguir um coração rico de um vazio é uma arte.
+577. É preciso ponderar bem as escolhas, porque tudo pode depender delas.
+578. Obtive o resultado máximo no tempo médio previsto.
+579. Ela era uma verdade comum a todos.
+580. Caiu sobre mim um envelope cheio de dinheiro.
+581. Podemos continuar até que seja necessário parar.
+582. Devo confessar que queria evitar esta situação.
+583. O que importa é tentar sempre.
+584. Recebi uma pergunta interessante.
+585. Sinto-me completamente satisfeito hoje.
+586. A localização da casa na colina é encantadora em maio.
+587. Você deve levantar a voz apenas se lhe der prazer contar.
+588. Era um dia triste, e ele caminhava quase nu.
+589. Não, não posso resistir a essa tentação.
+590. Sua figura foi vista se virando de repente.
+591. A única arma que possuo é a vontade de estudar.
+592. Quero perguntar se você pode sentir falta de alguém que nunca conheceu.
+593. É inútil tentar parar o calor em pleno verão.
+594. É difícil expressar o quanto se pode conseguir em silêncio.
+595. Prefiro esperar o primeiro trem da manhã.
+596. Uma ilha cercada por um muro branco parece uma pintura.
+597. O campo estava pronto para o plantio, enfim, não havia tempo a perder.
+598. É preciso armar-se de paciência e cortar os galhos secos.
+599. Não prometa o que você não pode carregar nos seus ombros.
+600. Amo observar um operário que trabalha com cuidado.
+601. Esta coisa não deve constar na lista oficial.
+602. Fiz uma visita a um lugar famoso.
+603. Em um só instante, conseguiu compor a melodia.
+604. O médico me disse para lembrar dos remédios todos os dias.
+605. O verdadeiro problema é não querer ofender ninguém.
+606. Foi além de todos os limites, com uma força inexplicável.
+607. Decidiram fundar um clube e conduzir atividades para jovens.
+608. Amo colecionar conchas: são lembranças que podem durar anos.
+609. É direito deles saber o que há no fundo da questão.
+610. Não se pode nem ignorar nem subestimar o problema.
+611. Não se deve matar os sonhos, mas alcançar os objetivos.
+612. A água é um elemento vital para cada nação.
+613. A operação correu bem: agora ele tem o direito de sorrir.
+614. Às vezes, a situação piorará se você tentar mover muitas peças.
+615. Eu tinha a intenção de ajudar um rapaz jovem.
+616. A paz é o objetivo de todo general sábio.
+617. É hora de começar a desenhar aquela imagem que você sonhava.
+618. É preciso trazer de volta a calma durante a reunião.
+619. Gosto de ajudar mesmo quando nem me pedem.
+620. Não se esqueça de desviar o olhar da planície para ver as montanhas.
+621. Um homem nobre conhece o valor do verdadeiro respeito.
+622. A consciência impõe piedade para com quem sofre.
+623. O professor de inglês tem um rosto simpático.
+624. O desenvolvimento da mente enriquece a alma.
+625. O casamento foi celebrado em um vasto jardim.
+626. É melhor ficar calmo e esperar a sorte.
+627. Meu caro amigo, deixe a vida fluir sem pressa.
+628. O rio começou a correr mais forte perto da aldeia pobre.
+629. Tal acontecimento não era visto desde esta época.
+630. Porque queria a verdade, decidiu enfrentá-la.
+631. Tenho que decidir o tom certo para a carta.
+632. Sua presença imponente criava um clima sério.
+633. Vi o sol desaparecer atrás das colinas.
+634. É preciso permitir que todos falem.
+635. Um homem religioso sabe oferecer conforto.
+636. Continuo querendo ouvir a sua história.
+637. Você pode contar sobre aquela vez com o soldado russo?
+638. A revolução mudou para sempre o destino da cidade.
+639. Saber quanto pode valer um diploma universitário é importante.
+640. Você não deve desviar o olhar para não bater a perna na escada.
+641. A senhorita parou diante da porta.
+642. Ajudar quem merece é a consequência justa de dar valor.
+643. O valor de um quadro está também na sua fé artística.
+644. Dentro do museu, à direita, pode-se dar espaço à arte.
+645. Saber viver não significa fugir das responsabilidades.
+646. Quero conceder uma última chance, por um motivo preciso.
+647. Certamente, escolher o melhor caminho não é fácil.
+648. Um velho inimigo agora trabalha com a polícia.
+649. Não adianta jogar lama em um camponês honesto.
+650. Saber descrever e reconhecer um perigo pode te salvar.
+651. Se acontecer de novo, farei uma escolha diferente.
+652. Perdi o fio da meada, e é tarde para voltar atrás.
+653. Naturalmente, não posso afirmar algo sem provas.
+654. A companhia de teatro estudava cada movimento no palco.
+655. Saber sofrer faz desabrochar uma flor mais forte.
+656. Vá em frente, ouça com o ouvido atento.
+657. A sombra de um gesto extraordinário pode mudar a história.
+658. Você não pode esconder a verdade diante de Deus.
+659. Basta unir coragem e paciência para atravessar qualquer desafio.
+660. Um pequeno gesto de amor fortalece a sua pátria.
+661. Todo limite pode ser superado com o poder da mente.
+662. Iremos lá onde o mar é puro.
+663. Uma escolha moral é também a mais justa.
+664. Provavelmente, esta é a segunda tentativa.
+665. Existem muitas maneiras de dizer "eu vos amo".
+666. É preciso escolher bem quando os problemas são numerosos.
+667. O obstáculo era enorme, quase como a morte.
+668. Gostaria de voltar àquele assunto para esclarecê-lo.
+669. A indústria deve considerar o meio ambiente.
+670. Vamos plantar árvores onde for preciso ajudar a natureza.
+671. Você deve enfrentar o que pode significar mudança.
+672. De fato, saber caminhar aqui já é um dom.
+673. A dor de dente me levou ao advogado... por engano.
+674. A cabeça erguida, todavia, não significa orgulho.
+675. Um milhão de sonhos pode assumir uma única forma.
+676. Não se pode medir sem uma medida justa.
+677. É difícil obter tudo da mesma maneira.
+678. Gostaria de rever o projeto, sem dúvida.
+679. Voltou imediatamente para falar do uso correto dos recursos.
+680. É preciso fazer o pedido e chegar pontualmente.
+681. Não se deve ir contra a própria base moral.
+682. É prudente descer um degrau de cada vez em cada momento de risco.
+683. Meu companheiro tem uma aparência gentil.
+684. Quero declarar minha confiança em todo homem honesto.
+685. Gosto de oferecer um café e receber um sorriso.
+686. A política influencia cada território.
+687. Cada ponto do mapa serve para a pesquisa.
+688. Uma caixa pode conter muito amor em um pequeno canto.
+689. O interior da casa podia revelar segredos escondidos.
+690. Vi uma folha cair perto do laboratório técnico.
+691. Gostaria de tentar pedir um conselho a um especialista europeu.
+692. Estudo latim porque o latim abre a boca da história.
+693. Uma placa de aviso indicava qual era o caminho para a liberdade.
+694. Não paro de repetir as lições do passado.
+695. O vale parecia pertencer a quem sabia entender a natureza.
+696. Uma expressão de alegria pode afastar toda a dor.
+697. É necessário providenciar a união das forças desde o princípio.
+698. Sonho em voar, por isso é difícil guardar um segredo.
+699. Não quero forçar nem mesmo um amigo a trazer notícias desagradáveis.
+700. É possível resolver um enigma do século passado.
+701. Um silêncio vazio era a chave para a minha memória.
+702. Seu rosto parecia dizer algo em cada traço.
+703. O preço era alto, talvez por causa da longa luta sindical.
+704. Nem todos sabem compreender e guiar um projeto complexo.
+705. Você pode realizar um trabalho sem ferir ninguém.
+706. Agora já é tarde para salvar o escritor.
+707. Percorri um quilômetro para ver a lua cheia.
+708. Quero propor uma viagem somente para nós dois.
+709. É o único museu dedicado à nossa civilização.
+710. Você é um bom rapaz, pronto para a batalha.
+711. Em todo grau de combate, se derrama sangue.
+712. A sede do partido deve gozar de boa reputação.
+713. Ficou quieto, sonhando em mudar a cultura.
+714. Caminhava ao meu lado e dizia coisas verdadeiramente doces.
+715. Ao final, é preciso coragem para falar com o secretário.
+716. Tenho menos tempo para construir um futuro do que antes.
+717. Quero um mundo igual para todos, sem limitar os sonhos.
+718. Sei perceber quando devo proceder com cautela.
+719. O corpo estava cercado por uma multidão silenciosa.
+720. É preciso abrir o automóvel com cuidado.
+721. O museu nacional recebe o mínimo de visitantes na presente pandemia.
+722. É normal chorar por uma história simples e real.
+723. Tento garantir que meu grupo se mantenha focado no objetivo comum.
+724. O lado esquerdo do edifício começou a interessar um rapaz.
+725. Não é estúpido avaliar a qualidade do produto.
+726. A nossa região tem uma mente criativa.
+727. Uma sociedade civil cresce também em pequenas províncias.
+728. Frequentemente, é demasiado o tempo gasto na produção.
+729. Vamos dar uma volta para aprender a língua local.
+730. Prefiro chá a tirar a pausa.
+731. Não gosto nem um pouco de estender as discussões.
+732. Todo pensamento deve ter um plano claro.
+733. Ontem decidi organizar os objetos por cor.
+734. É útil contar não só com o dinheiro, mas sobretudo com a confiança.
+735. Você pode escolher qualquer missão da comissão.
+736. Este tipo de erro é o principal obstáculo.
+737. Tente se aproximar de um amigo e reencontrar a serenidade.
+738. Ele tem um conhecimento maior do que uma simples lira.
+739. Um trabalho duro faz parte do ofício habitual.
+740. Você conhece a importância de participar de um evento?
+741. É justo difundir ideias com a fronte erguida.
+742. Era uma tentativa extrema do instituto.
+743. Um fogo repentino pode mudar os planos.
+744. Cada alvorada faz nascer um novo dia.
+745. Devemos aumentar as iniciativas e preferir as que são úteis.
+746. É mais econômico manter o contato humano.
+747. A forma do objeto causou um acidente.
+748. Um olho atento vê toda relação oculta.
+749. Podemos concluir com um aplauso, e nada mais.
+750. Basta virar a página para seguir a trama.
+751. É fácil entender uma pessoa sincera.
+752. A ciência teve um progresso notável.
+753. Gostaria de morar em uma aldeia que saiba constituir uma comunidade.
+754. Cada palavra tem o desejo de servir à verdade.
+755. Portanto, este é o lugar do qual você deve cuidar.
+756. Cada fenômeno natural é patrimônio da república.
+757. Não é um problema particular, ah não.
+758. Gosto de beber um café e rezar com esperança.
+759. O ministro sabe estabelecer uma meta de mérito.
+760. É preciso dividir o trabalho entre quem é capaz.
+761. Uma linha elegante confere um estilo moderno.
+762. A fera se aproximou do rapaz com um olhar profundo.
+763. O velho quis trazer a paz.
+764. A diferença entre um romano e um não romano não está no espaço.
+765. Um jardim pode conter muito verde em pouco espaço.
+766. O interior do diário pode revelar segredos escondidos.
+767. Ver uma estrela cadente é um presente para um amigo técnico.
+768. Quero tentar pedir um conselho a um turista europeu.
+769. O latim é belo: o latim fala com a boca da história.
+770. Uma placa de aviso explicava qual caminho levava à liberdade.
+771. Continuo a repetir os erros do passado.
+772. É importante aceitar as mudanças e perceber as oportunidades.
+773. Então você deveria admitir que este ano foi especial.
+774. Quero apoiar a sua ideia, mas tenho um aspecto a esclarecer.
+775. A espera sob o céu azul me fazia sonhar.
+776. Cuidado para não queimar etapas: um passo de cada vez é certamente melhor.
+777. A colina é bela, mas a culpa pela sua decisão não é da natureza.
+778. Use a mão direita para pintar um quadro diferente do habitual.
+779. Eis como concluir o trabalho dentro da data estabelecida.
+780. Passei em um exame importante, por exemplo, o de história.
+781. Ser um bom filho significa também terminar o que se começa.
+782. A frase daquele tipo de gênero musical é difícil de julgar.
+783. Estudei um autor grego e a imagem que tenho dele é vívida.
+784. Gostaria de encontrar um artista de fama internacional.
+785. A praça da cidade é onde ela mora, bem ali perto.
+786. A mãe o consolava dizendo que o mal passaria.
+787. Nada pode parar um sonho, nem mesmo um público numeroso.
+788. Poderia levar mais tempo, oh sim.
+789. O pai falava com o dono da fábrica.
+790. É hora de partir e plantar uma nova planta no jardim.
+791. A província é esplêndida, mesmo com poucos recursos.
+792. Há uma razão para permanecermos calmos.
+793. Ainda não tive resposta sobre a cena do filme.
+794. A senhora e o senhor caminhavam juntos.
+795. Uma mão no ombro diz mais que mil palavras esta noite.
+796. Apesar do sucesso, ele disse apenas "sim" e sorriu.
+797. Não consigo encontrar a carta que você me mandou.
+798. Tenho muito interesse em vir com um sorriso no rosto.
+799. Vocês deveriam levar o livro para a vossa casa.
+800. Com o pé direito à frente, entrarei na vossa casa trazendo boas notícias.
